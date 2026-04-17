@@ -207,8 +207,7 @@ This approach is exploratory and should be described that way.
 
 Strengths:
 
-- fully reproducible, followed Andreotta et al. (2019, p. 1767)<img width="263" height="35" alt="image" src="https://github.com/user-attachments/assets/08095ccc-dec5-4eb0-b56d-bee3eed2de45" />
-https://link.springer.com/article/10.3758/s13428-019-01202-8
+- methodological design was informed by Andreotta et al. (2019, p. 1767), which supports combining computational text analysis with qualitative interpretation in social media research ([link](https://link.springer.com/article/10.3758/s13428-019-01202-8))
 - transparent feature engineering
 - category-aware rather than generic
 - built around a realistic product question

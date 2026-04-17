@@ -1,0 +1,881 @@
+category_name,brand_name,month,trend_index,share_of_search
+Audio Content,Apple Music,2021-08-01,1.0,0.009345794392523364
+Audio Content,Apple Music,2021-09-01,1.0,0.009828009828009828
+Audio Content,Apple Music,2021-10-01,1.0,0.010101010101010102
+Audio Content,Apple Music,2021-11-01,1.25,0.012224938875305624
+Audio Content,Apple Music,2021-12-01,1.0,0.0103359173126615
+Audio Content,Apple Music,2022-01-01,1.0,0.010330578512396695
+Audio Content,Apple Music,2022-02-01,1.0,0.009900990099009901
+Audio Content,Apple Music,2022-03-01,1.0,0.010050251256281407
+Audio Content,Apple Music,2022-04-01,1.0,0.009925558312655087
+Audio Content,Apple Music,2022-05-01,1.0,0.009416195856873822
+Audio Content,Apple Music,2022-06-01,1.0,0.009302325581395349
+Audio Content,Apple Music,2022-07-01,1.0,0.009708737864077669
+Audio Content,Apple Music,2022-08-01,1.0,0.009389671361502348
+Audio Content,Apple Music,2022-09-01,1.0,0.009592326139088728
+Audio Content,Apple Music,2022-10-01,1.0,0.00946969696969697
+Audio Content,Apple Music,2022-11-01,1.25,0.01160092807424594
+Audio Content,Apple Music,2022-12-01,1.0,0.009828009828009828
+Audio Content,Apple Music,2023-01-01,1.0,0.01037344398340249
+Audio Content,Apple Music,2023-02-01,1.0,0.009501187648456057
+Audio Content,Apple Music,2023-03-01,1.0,0.00963855421686747
+Audio Content,Apple Music,2023-04-01,1.0,0.0099601593625498
+Audio Content,Apple Music,2023-05-01,1.0,0.009900990099009901
+Audio Content,Apple Music,2023-06-01,1.0,0.009925558312655087
+Audio Content,Apple Music,2023-07-01,1.0,0.00992063492063492
+Audio Content,Apple Music,2023-08-01,1.0,0.009876543209876543
+Audio Content,Apple Music,2023-09-01,1.0,0.009779951100244499
+Audio Content,Apple Music,2023-10-01,1.0,0.00967117988394584
+Audio Content,Apple Music,2023-11-01,1.25,0.011904761904761904
+Audio Content,Apple Music,2023-12-01,1.0,0.010351966873706004
+Audio Content,Apple Music,2024-01-01,1.0,0.010810810810810811
+Audio Content,Apple Music,2024-02-01,1.0,0.010178117048346057
+Audio Content,Apple Music,2024-03-01,1.0,0.01
+Audio Content,Apple Music,2024-04-01,1.0,0.01015228426395939
+Audio Content,Apple Music,2024-05-01,1.25,0.012254901960784314
+Audio Content,Apple Music,2024-06-01,1.0,0.010224948875255624
+Audio Content,Apple Music,2024-07-01,1.0,0.0106951871657754
+Audio Content,Apple Music,2024-08-01,1.0,0.010126582278481013
+Audio Content,Apple Music,2024-09-01,1.0,0.010224948875255624
+Audio Content,Apple Music,2024-10-01,1.0,0.0103359173126615
+Audio Content,Apple Music,2024-11-01,1.0,0.010256410256410256
+Audio Content,Apple Music,2024-12-01,1.2,0.011764705882352941
+Audio Content,Apple Music,2025-01-01,1.0,0.010610079575596816
+Audio Content,Apple Music,2025-02-01,1.0,0.009900990099009901
+Audio Content,Apple Music,2025-03-01,1.0,0.00984251968503937
+Audio Content,Audible,2021-08-01,1.0,0.009345794392523364
+Audio Content,Audible,2021-09-01,1.0,0.009828009828009828
+Audio Content,Audible,2021-10-01,1.0,0.010101010101010102
+Audio Content,Audible,2021-11-01,1.0,0.009779951100244499
+Audio Content,Audible,2021-12-01,1.0,0.0103359173126615
+Audio Content,Audible,2022-01-01,1.2,0.012396694214876033
+Audio Content,Audible,2022-02-01,1.0,0.009900990099009901
+Audio Content,Audible,2022-03-01,1.0,0.010050251256281407
+Audio Content,Audible,2022-04-01,1.0,0.009925558312655087
+Audio Content,Audible,2022-05-01,1.0,0.009416195856873822
+Audio Content,Audible,2022-06-01,1.0,0.009302325581395349
+Audio Content,Audible,2022-07-01,1.0,0.009708737864077669
+Audio Content,Audible,2022-08-01,1.25,0.011737089201877934
+Audio Content,Audible,2022-09-01,1.25,0.011990407673860911
+Audio Content,Audible,2022-10-01,1.0,0.00946969696969697
+Audio Content,Audible,2022-11-01,1.0,0.009280742459396751
+Audio Content,Audible,2022-12-01,1.25,0.012285012285012284
+Audio Content,Audible,2023-01-01,1.6,0.016597510373443983
+Audio Content,Audible,2023-02-01,1.0,0.009501187648456057
+Audio Content,Audible,2023-03-01,1.0,0.00963855421686747
+Audio Content,Audible,2023-04-01,1.0,0.0099601593625498
+Audio Content,Audible,2023-05-01,1.0,0.009900990099009901
+Audio Content,Audible,2023-06-01,1.0,0.009925558312655087
+Audio Content,Audible,2023-07-01,1.0,0.00992063492063492
+Audio Content,Audible,2023-08-01,1.0,0.009876543209876543
+Audio Content,Audible,2023-09-01,1.0,0.009779951100244499
+Audio Content,Audible,2023-10-01,1.0,0.00967117988394584
+Audio Content,Audible,2023-11-01,1.0,0.009523809523809525
+Audio Content,Audible,2023-12-01,1.0,0.010351966873706004
+Audio Content,Audible,2024-01-01,1.0,0.010810810810810811
+Audio Content,Audible,2024-02-01,1.0,0.010178117048346057
+Audio Content,Audible,2024-03-01,1.0,0.01
+Audio Content,Audible,2024-04-01,1.0,0.01015228426395939
+Audio Content,Audible,2024-05-01,1.0,0.00980392156862745
+Audio Content,Audible,2024-06-01,1.0,0.010224948875255624
+Audio Content,Audible,2024-07-01,1.0,0.0106951871657754
+Audio Content,Audible,2024-08-01,1.0,0.010126582278481013
+Audio Content,Audible,2024-09-01,1.0,0.010224948875255624
+Audio Content,Audible,2024-10-01,1.0,0.0103359173126615
+Audio Content,Audible,2024-11-01,1.0,0.010256410256410256
+Audio Content,Audible,2024-12-01,1.0,0.00980392156862745
+Audio Content,Audible,2025-01-01,1.0,0.010610079575596816
+Audio Content,Audible,2025-02-01,1.0,0.009900990099009901
+Audio Content,Audible,2025-03-01,1.0,0.00984251968503937
+Audio Content,Spotify,2021-08-01,8.0,0.07476635514018691
+Audio Content,Spotify,2021-09-01,7.75,0.07616707616707617
+Audio Content,Spotify,2021-10-01,8.0,0.08080808080808081
+Audio Content,Spotify,2021-11-01,11.0,0.10757946210268948
+Audio Content,Spotify,2021-12-01,9.0,0.09302325581395349
+Audio Content,Spotify,2022-01-01,10.4,0.10743801652892562
+Audio Content,Spotify,2022-02-01,10.5,0.10396039603960396
+Audio Content,Spotify,2022-03-01,10.25,0.10301507537688442
+Audio Content,Spotify,2022-04-01,10.0,0.09925558312655088
+Audio Content,Spotify,2022-05-01,10.0,0.09416195856873823
+Audio Content,Spotify,2022-06-01,11.0,0.10232558139534884
+Audio Content,Spotify,2022-07-01,10.0,0.0970873786407767
+Audio Content,Spotify,2022-08-01,10.75,0.10093896713615023
+Audio Content,Spotify,2022-09-01,11.25,0.1079136690647482
+Audio Content,Spotify,2022-10-01,12.0,0.11363636363636365
+Audio Content,Spotify,2022-11-01,16.0,0.14849187935034802
+Audio Content,Spotify,2022-12-01,11.5,0.11302211302211303
+Audio Content,Spotify,2023-01-01,10.6,0.10995850622406637
+Audio Content,Spotify,2023-02-01,12.0,0.11401425178147269
+Audio Content,Spotify,2023-03-01,11.5,0.1108433734939759
+Audio Content,Spotify,2023-04-01,12.0,0.1195219123505976
+Audio Content,Spotify,2023-05-01,11.5,0.11386138613861387
+Audio Content,Spotify,2023-06-01,11.0,0.10918114143920596
+Audio Content,Spotify,2023-07-01,11.2,0.1111111111111111
+Audio Content,Spotify,2023-08-01,10.75,0.10617283950617284
+Audio Content,Spotify,2023-09-01,11.0,0.10757946210268948
+Audio Content,Spotify,2023-10-01,12.2,0.11798839458413925
+Audio Content,Spotify,2023-11-01,14.25,0.1357142857142857
+Audio Content,Spotify,2023-12-01,10.8,0.11180124223602486
+Audio Content,Spotify,2024-01-01,10.0,0.10810810810810811
+Audio Content,Spotify,2024-02-01,12.5,0.1272264631043257
+Audio Content,Spotify,2024-03-01,12.0,0.12
+Audio Content,Spotify,2024-04-01,11.75,0.11928934010152284
+Audio Content,Spotify,2024-05-01,12.5,0.12254901960784313
+Audio Content,Spotify,2024-06-01,10.8,0.11042944785276075
+Audio Content,Spotify,2024-07-01,10.75,0.11497326203208556
+Audio Content,Spotify,2024-08-01,11.5,0.11645569620253164
+Audio Content,Spotify,2024-09-01,11.2,0.11451942740286299
+Audio Content,Spotify,2024-10-01,11.75,0.12144702842377261
+Audio Content,Spotify,2024-11-01,14.0,0.14358974358974358
+Audio Content,Spotify,2024-12-01,18.2,0.1784313725490196
+Audio Content,Spotify,2025-01-01,11.0,0.11671087533156499
+Audio Content,Spotify,2025-02-01,13.0,0.12871287128712872
+Audio Content,Spotify,2025-03-01,12.8,0.12598425196850396
+Audio Content,YouTube,2021-08-01,97.0,0.9065420560747663
+Audio Content,YouTube,2021-09-01,92.0,0.9041769041769042
+Audio Content,YouTube,2021-10-01,89.0,0.898989898989899
+Audio Content,YouTube,2021-11-01,89.0,0.8704156479217604
+Audio Content,YouTube,2021-12-01,85.75,0.8863049095607235
+Audio Content,YouTube,2022-01-01,84.2,0.8698347107438017
+Audio Content,YouTube,2022-02-01,88.5,0.8762376237623762
+Audio Content,YouTube,2022-03-01,87.25,0.8768844221105527
+Audio Content,YouTube,2022-04-01,88.75,0.8808933002481389
+Audio Content,YouTube,2022-05-01,94.2,0.8870056497175142
+Audio Content,YouTube,2022-06-01,94.5,0.8790697674418605
+Audio Content,YouTube,2022-07-01,91.0,0.883495145631068
+Audio Content,YouTube,2022-08-01,93.5,0.8779342723004695
+Audio Content,YouTube,2022-09-01,90.75,0.8705035971223022
+Audio Content,YouTube,2022-10-01,91.6,0.8674242424242424
+Audio Content,YouTube,2022-11-01,89.5,0.8306264501160093
+Audio Content,YouTube,2022-12-01,88.0,0.8648648648648649
+Audio Content,YouTube,2023-01-01,83.2,0.8630705394190871
+Audio Content,YouTube,2023-02-01,91.25,0.8669833729216152
+Audio Content,YouTube,2023-03-01,90.25,0.8698795180722891
+Audio Content,YouTube,2023-04-01,86.4,0.8605577689243028
+Audio Content,YouTube,2023-05-01,87.5,0.8663366336633663
+Audio Content,YouTube,2023-06-01,87.75,0.8709677419354839
+Audio Content,YouTube,2023-07-01,87.6,0.8690476190476191
+Audio Content,YouTube,2023-08-01,88.5,0.8740740740740741
+Audio Content,YouTube,2023-09-01,89.25,0.8728606356968215
+Audio Content,YouTube,2023-10-01,89.2,0.862669245647969
+Audio Content,YouTube,2023-11-01,88.5,0.8428571428571429
+Audio Content,YouTube,2023-12-01,83.8,0.8674948240165632
+Audio Content,YouTube,2024-01-01,80.5,0.8702702702702703
+Audio Content,YouTube,2024-02-01,83.75,0.8524173027989822
+Audio Content,YouTube,2024-03-01,86.0,0.86
+Audio Content,YouTube,2024-04-01,84.75,0.8604060913705583
+Audio Content,YouTube,2024-05-01,87.25,0.8553921568627451
+Audio Content,YouTube,2024-06-01,85.0,0.869120654396728
+Audio Content,YouTube,2024-07-01,80.75,0.8636363636363636
+Audio Content,YouTube,2024-08-01,85.25,0.8632911392405064
+Audio Content,YouTube,2024-09-01,84.6,0.8650306748466258
+Audio Content,YouTube,2024-10-01,83.0,0.8578811369509044
+Audio Content,YouTube,2024-11-01,81.5,0.8358974358974359
+Audio Content,YouTube,2024-12-01,81.6,0.7999999999999999
+Audio Content,YouTube,2025-01-01,81.25,0.8620689655172413
+Audio Content,YouTube,2025-02-01,86.0,0.8514851485148515
+Audio Content,YouTube,2025-03-01,86.6,0.8523622047244095
+Audio Content,iHeartRadio,2021-08-01,0.0,0.0
+Audio Content,iHeartRadio,2021-09-01,0.0,0.0
+Audio Content,iHeartRadio,2021-10-01,0.0,0.0
+Audio Content,iHeartRadio,2021-11-01,0.0,0.0
+Audio Content,iHeartRadio,2021-12-01,0.0,0.0
+Audio Content,iHeartRadio,2022-01-01,0.0,0.0
+Audio Content,iHeartRadio,2022-02-01,0.0,0.0
+Audio Content,iHeartRadio,2022-03-01,0.0,0.0
+Audio Content,iHeartRadio,2022-04-01,0.0,0.0
+Audio Content,iHeartRadio,2022-05-01,0.0,0.0
+Audio Content,iHeartRadio,2022-06-01,0.0,0.0
+Audio Content,iHeartRadio,2022-07-01,0.0,0.0
+Audio Content,iHeartRadio,2022-08-01,0.0,0.0
+Audio Content,iHeartRadio,2022-09-01,0.0,0.0
+Audio Content,iHeartRadio,2022-10-01,0.0,0.0
+Audio Content,iHeartRadio,2022-11-01,0.0,0.0
+Audio Content,iHeartRadio,2022-12-01,0.0,0.0
+Audio Content,iHeartRadio,2023-01-01,0.0,0.0
+Audio Content,iHeartRadio,2023-02-01,0.0,0.0
+Audio Content,iHeartRadio,2023-03-01,0.0,0.0
+Audio Content,iHeartRadio,2023-04-01,0.0,0.0
+Audio Content,iHeartRadio,2023-05-01,0.0,0.0
+Audio Content,iHeartRadio,2023-06-01,0.0,0.0
+Audio Content,iHeartRadio,2023-07-01,0.0,0.0
+Audio Content,iHeartRadio,2023-08-01,0.0,0.0
+Audio Content,iHeartRadio,2023-09-01,0.0,0.0
+Audio Content,iHeartRadio,2023-10-01,0.0,0.0
+Audio Content,iHeartRadio,2023-11-01,0.0,0.0
+Audio Content,iHeartRadio,2023-12-01,0.0,0.0
+Audio Content,iHeartRadio,2024-01-01,0.0,0.0
+Audio Content,iHeartRadio,2024-02-01,0.0,0.0
+Audio Content,iHeartRadio,2024-03-01,0.0,0.0
+Audio Content,iHeartRadio,2024-04-01,0.0,0.0
+Audio Content,iHeartRadio,2024-05-01,0.0,0.0
+Audio Content,iHeartRadio,2024-06-01,0.0,0.0
+Audio Content,iHeartRadio,2024-07-01,0.0,0.0
+Audio Content,iHeartRadio,2024-08-01,0.0,0.0
+Audio Content,iHeartRadio,2024-09-01,0.0,0.0
+Audio Content,iHeartRadio,2024-10-01,0.0,0.0
+Audio Content,iHeartRadio,2024-11-01,0.0,0.0
+Audio Content,iHeartRadio,2024-12-01,0.0,0.0
+Audio Content,iHeartRadio,2025-01-01,0.0,0.0
+Audio Content,iHeartRadio,2025-02-01,0.0,0.0
+Audio Content,iHeartRadio,2025-03-01,0.2,0.0019685039370078744
+Household Cleaners (Indoor),Ajax,2021-08-01,27.0,0.4090909090909091
+Household Cleaners (Indoor),Ajax,2021-09-01,29.5,0.41403508771929826
+Household Cleaners (Indoor),Ajax,2021-10-01,31.8,0.48036253776435045
+Household Cleaners (Indoor),Ajax,2021-11-01,27.25,0.42248062015503873
+Household Cleaners (Indoor),Ajax,2021-12-01,22.5,0.3629032258064516
+Household Cleaners (Indoor),Ajax,2022-01-01,22.4,0.30107526881720426
+Household Cleaners (Indoor),Ajax,2022-02-01,33.0,0.4217252396166134
+Household Cleaners (Indoor),Ajax,2022-03-01,33.5,0.4336569579288026
+Household Cleaners (Indoor),Ajax,2022-04-01,33.5,0.40119760479041916
+Household Cleaners (Indoor),Ajax,2022-05-01,30.6,0.42148760330578516
+Household Cleaners (Indoor),Ajax,2022-06-01,24.5,0.3798449612403101
+Household Cleaners (Indoor),Ajax,2022-07-01,29.6,0.4122562674094708
+Household Cleaners (Indoor),Ajax,2022-08-01,38.0,0.475
+Household Cleaners (Indoor),Ajax,2022-09-01,52.25,0.5456919060052219
+Household Cleaners (Indoor),Ajax,2022-10-01,43.0,0.5011655011655012
+Household Cleaners (Indoor),Ajax,2022-11-01,28.5,0.40714285714285714
+Household Cleaners (Indoor),Ajax,2022-12-01,28.25,0.40213523131672596
+Household Cleaners (Indoor),Ajax,2023-01-01,25.6,0.3585434173669468
+Household Cleaners (Indoor),Ajax,2023-02-01,29.0,0.4070175438596491
+Household Cleaners (Indoor),Ajax,2023-03-01,21.25,0.3497942386831276
+Household Cleaners (Indoor),Ajax,2023-04-01,27.4,0.3881019830028329
+Household Cleaners (Indoor),Ajax,2023-05-01,28.0,0.3971631205673759
+Household Cleaners (Indoor),Ajax,2023-06-01,23.5,0.36153846153846153
+Household Cleaners (Indoor),Ajax,2023-07-01,26.6,0.3855072463768116
+Household Cleaners (Indoor),Ajax,2023-08-01,30.5,0.42657342657342656
+Household Cleaners (Indoor),Ajax,2023-09-01,32.75,0.4440677966101695
+Household Cleaners (Indoor),Ajax,2023-10-01,37.4,0.46059113300492616
+Household Cleaners (Indoor),Ajax,2023-11-01,28.75,0.3993055555555556
+Household Cleaners (Indoor),Ajax,2023-12-01,23.2,0.3462686567164179
+Household Cleaners (Indoor),Ajax,2024-01-01,25.5,0.34812286689419797
+Household Cleaners (Indoor),Ajax,2024-02-01,28.75,0.391156462585034
+Household Cleaners (Indoor),Ajax,2024-03-01,36.6,0.43990384615384615
+Household Cleaners (Indoor),Ajax,2024-04-01,25.5,0.36823104693140796
+Household Cleaners (Indoor),Ajax,2024-05-01,25.0,0.352112676056338
+Household Cleaners (Indoor),Ajax,2024-06-01,20.6,0.3140243902439025
+Household Cleaners (Indoor),Ajax,2024-07-01,28.0,0.37583892617449666
+Household Cleaners (Indoor),Ajax,2024-08-01,33.25,0.4169278996865204
+Household Cleaners (Indoor),Ajax,2024-09-01,28.8,0.3829787234042553
+Household Cleaners (Indoor),Ajax,2024-10-01,27.0,0.36610169491525424
+Household Cleaners (Indoor),Ajax,2024-11-01,28.75,0.3685897435897436
+Household Cleaners (Indoor),Ajax,2024-12-01,22.8,0.31232876712328766
+Household Cleaners (Indoor),Ajax,2025-01-01,27.75,0.3384146341463415
+Household Cleaners (Indoor),Ajax,2025-02-01,32.0,0.38095238095238093
+Household Cleaners (Indoor),Ajax,2025-03-01,27.6,0.35475578406169667
+Household Cleaners (Indoor),Dettol,2021-08-01,14.0,0.21212121212121213
+Household Cleaners (Indoor),Dettol,2021-09-01,14.75,0.20701754385964913
+Household Cleaners (Indoor),Dettol,2021-10-01,13.4,0.20241691842900303
+Household Cleaners (Indoor),Dettol,2021-11-01,13.5,0.20930232558139536
+Household Cleaners (Indoor),Dettol,2021-12-01,15.75,0.2540322580645161
+Household Cleaners (Indoor),Dettol,2022-01-01,23.6,0.3172043010752688
+Household Cleaners (Indoor),Dettol,2022-02-01,18.5,0.2364217252396166
+Household Cleaners (Indoor),Dettol,2022-03-01,18.0,0.23300970873786409
+Household Cleaners (Indoor),Dettol,2022-04-01,16.75,0.20059880239520958
+Household Cleaners (Indoor),Dettol,2022-05-01,15.8,0.2176308539944904
+Household Cleaners (Indoor),Dettol,2022-06-01,13.0,0.20155038759689922
+Household Cleaners (Indoor),Dettol,2022-07-01,15.2,0.2116991643454039
+Household Cleaners (Indoor),Dettol,2022-08-01,14.25,0.178125
+Household Cleaners (Indoor),Dettol,2022-09-01,13.25,0.13838120104438642
+Household Cleaners (Indoor),Dettol,2022-10-01,14.8,0.1724941724941725
+Household Cleaners (Indoor),Dettol,2022-11-01,14.75,0.21071428571428572
+Household Cleaners (Indoor),Dettol,2022-12-01,15.25,0.21708185053380782
+Household Cleaners (Indoor),Dettol,2023-01-01,17.2,0.24089635854341734
+Household Cleaners (Indoor),Dettol,2023-02-01,15.5,0.21754385964912282
+Household Cleaners (Indoor),Dettol,2023-03-01,14.75,0.24279835390946503
+Household Cleaners (Indoor),Dettol,2023-04-01,16.0,0.226628895184136
+Household Cleaners (Indoor),Dettol,2023-05-01,14.75,0.20921985815602837
+Household Cleaners (Indoor),Dettol,2023-06-01,14.0,0.2153846153846154
+Household Cleaners (Indoor),Dettol,2023-07-01,16.4,0.23768115942028983
+Household Cleaners (Indoor),Dettol,2023-08-01,12.75,0.17832167832167833
+Household Cleaners (Indoor),Dettol,2023-09-01,14.5,0.19661016949152543
+Household Cleaners (Indoor),Dettol,2023-10-01,14.2,0.1748768472906404
+Household Cleaners (Indoor),Dettol,2023-11-01,15.5,0.2152777777777778
+Household Cleaners (Indoor),Dettol,2023-12-01,17.8,0.2656716417910448
+Household Cleaners (Indoor),Dettol,2024-01-01,17.75,0.24232081911262798
+Household Cleaners (Indoor),Dettol,2024-02-01,17.75,0.24149659863945577
+Household Cleaners (Indoor),Dettol,2024-03-01,17.0,0.20432692307692307
+Household Cleaners (Indoor),Dettol,2024-04-01,17.0,0.24548736462093862
+Household Cleaners (Indoor),Dettol,2024-05-01,15.75,0.22183098591549297
+Household Cleaners (Indoor),Dettol,2024-06-01,15.4,0.23475609756097562
+Household Cleaners (Indoor),Dettol,2024-07-01,16.75,0.22483221476510068
+Household Cleaners (Indoor),Dettol,2024-08-01,15.5,0.19435736677115986
+Household Cleaners (Indoor),Dettol,2024-09-01,17.4,0.23138297872340421
+Household Cleaners (Indoor),Dettol,2024-10-01,17.0,0.2305084745762712
+Household Cleaners (Indoor),Dettol,2024-11-01,17.25,0.22115384615384615
+Household Cleaners (Indoor),Dettol,2024-12-01,19.2,0.26301369863013696
+Household Cleaners (Indoor),Dettol,2025-01-01,19.25,0.2347560975609756
+Household Cleaners (Indoor),Dettol,2025-02-01,21.25,0.25297619047619047
+Household Cleaners (Indoor),Dettol,2025-03-01,19.0,0.2442159383033419
+Household Cleaners (Indoor),Earth Choice,2021-08-01,6.0,0.09090909090909091
+Household Cleaners (Indoor),Earth Choice,2021-09-01,3.5,0.04912280701754386
+Household Cleaners (Indoor),Earth Choice,2021-10-01,1.6,0.02416918429003021
+Household Cleaners (Indoor),Earth Choice,2021-11-01,3.0,0.046511627906976744
+Household Cleaners (Indoor),Earth Choice,2021-12-01,3.0,0.04838709677419355
+Household Cleaners (Indoor),Earth Choice,2022-01-01,3.6,0.04838709677419355
+Household Cleaners (Indoor),Earth Choice,2022-02-01,4.25,0.054313099041533544
+Household Cleaners (Indoor),Earth Choice,2022-03-01,3.5,0.045307443365695796
+Household Cleaners (Indoor),Earth Choice,2022-04-01,4.0,0.04790419161676647
+Household Cleaners (Indoor),Earth Choice,2022-05-01,3.0,0.04132231404958678
+Household Cleaners (Indoor),Earth Choice,2022-06-01,3.75,0.05813953488372093
+Household Cleaners (Indoor),Earth Choice,2022-07-01,4.0,0.05571030640668524
+Household Cleaners (Indoor),Earth Choice,2022-08-01,3.5,0.04375
+Household Cleaners (Indoor),Earth Choice,2022-09-01,2.0,0.020887728459530026
+Household Cleaners (Indoor),Earth Choice,2022-10-01,4.2,0.04895104895104895
+Household Cleaners (Indoor),Earth Choice,2022-11-01,3.5,0.05
+Household Cleaners (Indoor),Earth Choice,2022-12-01,3.25,0.046263345195729534
+Household Cleaners (Indoor),Earth Choice,2023-01-01,4.0,0.05602240896358543
+Household Cleaners (Indoor),Earth Choice,2023-02-01,4.5,0.06315789473684211
+Household Cleaners (Indoor),Earth Choice,2023-03-01,4.0,0.06584362139917696
+Household Cleaners (Indoor),Earth Choice,2023-04-01,3.8,0.053824362606232294
+Household Cleaners (Indoor),Earth Choice,2023-05-01,4.75,0.0673758865248227
+Household Cleaners (Indoor),Earth Choice,2023-06-01,4.5,0.06923076923076923
+Household Cleaners (Indoor),Earth Choice,2023-07-01,4.8,0.06956521739130435
+Household Cleaners (Indoor),Earth Choice,2023-08-01,4.75,0.06643356643356643
+Household Cleaners (Indoor),Earth Choice,2023-09-01,4.25,0.0576271186440678
+Household Cleaners (Indoor),Earth Choice,2023-10-01,4.4,0.05418719211822661
+Household Cleaners (Indoor),Earth Choice,2023-11-01,4.75,0.06597222222222222
+Household Cleaners (Indoor),Earth Choice,2023-12-01,4.6,0.06865671641791045
+Household Cleaners (Indoor),Earth Choice,2024-01-01,5.25,0.07167235494880546
+Household Cleaners (Indoor),Earth Choice,2024-02-01,4.0,0.05442176870748299
+Household Cleaners (Indoor),Earth Choice,2024-03-01,4.4,0.052884615384615384
+Household Cleaners (Indoor),Earth Choice,2024-04-01,4.5,0.06498194945848375
+Household Cleaners (Indoor),Earth Choice,2024-05-01,5.0,0.07042253521126761
+Household Cleaners (Indoor),Earth Choice,2024-06-01,4.4,0.06707317073170734
+Household Cleaners (Indoor),Earth Choice,2024-07-01,5.25,0.07046979865771812
+Household Cleaners (Indoor),Earth Choice,2024-08-01,5.0,0.06269592476489028
+Household Cleaners (Indoor),Earth Choice,2024-09-01,5.0,0.06648936170212766
+Household Cleaners (Indoor),Earth Choice,2024-10-01,5.0,0.06779661016949153
+Household Cleaners (Indoor),Earth Choice,2024-11-01,4.75,0.060897435897435896
+Household Cleaners (Indoor),Earth Choice,2024-12-01,4.8,0.06575342465753424
+Household Cleaners (Indoor),Earth Choice,2025-01-01,6.25,0.07621951219512195
+Household Cleaners (Indoor),Earth Choice,2025-02-01,4.75,0.05654761904761905
+Household Cleaners (Indoor),Earth Choice,2025-03-01,5.0,0.06426735218508997
+Household Cleaners (Indoor),Pine O Cleen,2021-08-01,0.0,0.0
+Household Cleaners (Indoor),Pine O Cleen,2021-09-01,1.75,0.02456140350877193
+Household Cleaners (Indoor),Pine O Cleen,2021-10-01,0.0,0.0
+Household Cleaners (Indoor),Pine O Cleen,2021-11-01,0.0,0.0
+Household Cleaners (Indoor),Pine O Cleen,2021-12-01,0.0,0.0
+Household Cleaners (Indoor),Pine O Cleen,2022-01-01,0.0,0.0
+Household Cleaners (Indoor),Pine O Cleen,2022-02-01,0.5,0.006389776357827476
+Household Cleaners (Indoor),Pine O Cleen,2022-03-01,1.5,0.019417475728155338
+Household Cleaners (Indoor),Pine O Cleen,2022-04-01,1.0,0.011976047904191617
+Household Cleaners (Indoor),Pine O Cleen,2022-05-01,1.2,0.01652892561983471
+Household Cleaners (Indoor),Pine O Cleen,2022-06-01,0.75,0.011627906976744186
+Household Cleaners (Indoor),Pine O Cleen,2022-07-01,1.2,0.016713091922005572
+Household Cleaners (Indoor),Pine O Cleen,2022-08-01,0.5,0.00625
+Household Cleaners (Indoor),Pine O Cleen,2022-09-01,0.5,0.005221932114882507
+Household Cleaners (Indoor),Pine O Cleen,2022-10-01,0.4,0.004662004662004662
+Household Cleaners (Indoor),Pine O Cleen,2022-11-01,0.5,0.007142857142857143
+Household Cleaners (Indoor),Pine O Cleen,2022-12-01,0.5,0.0071174377224199285
+Household Cleaners (Indoor),Pine O Cleen,2023-01-01,0.4,0.0056022408963585435
+Household Cleaners (Indoor),Pine O Cleen,2023-02-01,1.0,0.014035087719298246
+Household Cleaners (Indoor),Pine O Cleen,2023-03-01,0.0,0.0
+Household Cleaners (Indoor),Pine O Cleen,2023-04-01,0.4,0.005665722379603401
+Household Cleaners (Indoor),Pine O Cleen,2023-05-01,0.5,0.0070921985815602835
+Household Cleaners (Indoor),Pine O Cleen,2023-06-01,1.25,0.019230769230769232
+Household Cleaners (Indoor),Pine O Cleen,2023-07-01,0.4,0.005797101449275362
+Household Cleaners (Indoor),Pine O Cleen,2023-08-01,0.5,0.006993006993006993
+Household Cleaners (Indoor),Pine O Cleen,2023-09-01,0.5,0.006779661016949152
+Household Cleaners (Indoor),Pine O Cleen,2023-10-01,0.8,0.009852216748768475
+Household Cleaners (Indoor),Pine O Cleen,2023-11-01,1.0,0.013888888888888888
+Household Cleaners (Indoor),Pine O Cleen,2023-12-01,0.0,0.0
+Household Cleaners (Indoor),Pine O Cleen,2024-01-01,1.0,0.013651877133105802
+Household Cleaners (Indoor),Pine O Cleen,2024-02-01,1.0,0.013605442176870748
+Household Cleaners (Indoor),Pine O Cleen,2024-03-01,0.8,0.009615384615384616
+Household Cleaners (Indoor),Pine O Cleen,2024-04-01,0.0,0.0
+Household Cleaners (Indoor),Pine O Cleen,2024-05-01,0.5,0.007042253521126761
+Household Cleaners (Indoor),Pine O Cleen,2024-06-01,0.4,0.006097560975609757
+Household Cleaners (Indoor),Pine O Cleen,2024-07-01,0.5,0.006711409395973154
+Household Cleaners (Indoor),Pine O Cleen,2024-08-01,1.5,0.018808777429467086
+Household Cleaners (Indoor),Pine O Cleen,2024-09-01,0.4,0.005319148936170213
+Household Cleaners (Indoor),Pine O Cleen,2024-10-01,0.5,0.006779661016949152
+Household Cleaners (Indoor),Pine O Cleen,2024-11-01,1.25,0.016025641025641024
+Household Cleaners (Indoor),Pine O Cleen,2024-12-01,0.6,0.00821917808219178
+Household Cleaners (Indoor),Pine O Cleen,2025-01-01,1.5,0.018292682926829267
+Household Cleaners (Indoor),Pine O Cleen,2025-02-01,0.5,0.005952380952380952
+Household Cleaners (Indoor),Pine O Cleen,2025-03-01,1.4,0.017994858611825194
+Household Cleaners (Indoor),White King,2021-08-01,19.0,0.2878787878787879
+Household Cleaners (Indoor),White King,2021-09-01,21.75,0.30526315789473685
+Household Cleaners (Indoor),White King,2021-10-01,19.4,0.29305135951661626
+Household Cleaners (Indoor),White King,2021-11-01,20.75,0.32170542635658916
+Household Cleaners (Indoor),White King,2021-12-01,20.75,0.3346774193548387
+Household Cleaners (Indoor),White King,2022-01-01,24.8,0.3333333333333333
+Household Cleaners (Indoor),White King,2022-02-01,22.0,0.28115015974440893
+Household Cleaners (Indoor),White King,2022-03-01,20.75,0.2686084142394822
+Household Cleaners (Indoor),White King,2022-04-01,28.25,0.3383233532934132
+Household Cleaners (Indoor),White King,2022-05-01,22.0,0.30303030303030304
+Household Cleaners (Indoor),White King,2022-06-01,22.5,0.3488372093023256
+Household Cleaners (Indoor),White King,2022-07-01,21.8,0.30362116991643456
+Household Cleaners (Indoor),White King,2022-08-01,23.75,0.296875
+Household Cleaners (Indoor),White King,2022-09-01,27.75,0.2898172323759791
+Household Cleaners (Indoor),White King,2022-10-01,23.4,0.2727272727272727
+Household Cleaners (Indoor),White King,2022-11-01,22.75,0.325
+Household Cleaners (Indoor),White King,2022-12-01,23.0,0.3274021352313167
+Household Cleaners (Indoor),White King,2023-01-01,24.2,0.33893557422969184
+Household Cleaners (Indoor),White King,2023-02-01,21.25,0.2982456140350877
+Household Cleaners (Indoor),White King,2023-03-01,20.75,0.34156378600823045
+Household Cleaners (Indoor),White King,2023-04-01,23.0,0.3257790368271955
+Household Cleaners (Indoor),White King,2023-05-01,22.5,0.3191489361702128
+Household Cleaners (Indoor),White King,2023-06-01,21.75,0.3346153846153846
+Household Cleaners (Indoor),White King,2023-07-01,20.8,0.30144927536231886
+Household Cleaners (Indoor),White King,2023-08-01,23.0,0.32167832167832167
+Household Cleaners (Indoor),White King,2023-09-01,21.75,0.29491525423728815
+Household Cleaners (Indoor),White King,2023-10-01,24.4,0.30049261083743845
+Household Cleaners (Indoor),White King,2023-11-01,22.0,0.3055555555555556
+Household Cleaners (Indoor),White King,2023-12-01,21.4,0.31940298507462683
+Household Cleaners (Indoor),White King,2024-01-01,23.75,0.3242320819112628
+Household Cleaners (Indoor),White King,2024-02-01,22.0,0.29931972789115646
+Household Cleaners (Indoor),White King,2024-03-01,24.4,0.2932692307692307
+Household Cleaners (Indoor),White King,2024-04-01,22.25,0.3212996389891697
+Household Cleaners (Indoor),White King,2024-05-01,24.75,0.3485915492957746
+Household Cleaners (Indoor),White King,2024-06-01,24.8,0.37804878048780494
+Household Cleaners (Indoor),White King,2024-07-01,24.0,0.3221476510067114
+Household Cleaners (Indoor),White King,2024-08-01,24.5,0.3072100313479624
+Household Cleaners (Indoor),White King,2024-09-01,23.6,0.31382978723404253
+Household Cleaners (Indoor),White King,2024-10-01,24.25,0.3288135593220339
+Household Cleaners (Indoor),White King,2024-11-01,26.0,0.3333333333333333
+Household Cleaners (Indoor),White King,2024-12-01,25.6,0.3506849315068493
+Household Cleaners (Indoor),White King,2025-01-01,27.25,0.3323170731707317
+Household Cleaners (Indoor),White King,2025-02-01,25.5,0.30357142857142855
+Household Cleaners (Indoor),White King,2025-03-01,24.8,0.3187660668380463
+Liquor Retailer,BWS,2021-08-01,38.0,0.4634146341463415
+Liquor Retailer,BWS,2021-09-01,33.0,0.45051194539249145
+Liquor Retailer,BWS,2021-10-01,34.0,0.4632152588555858
+Liquor Retailer,BWS,2021-11-01,34.25,0.43354430379746833
+Liquor Retailer,BWS,2021-12-01,68.5,0.45289256198347105
+Liquor Retailer,BWS,2022-01-01,32.0,0.4678362573099415
+Liquor Retailer,BWS,2022-02-01,28.25,0.437984496124031
+Liquor Retailer,BWS,2022-03-01,26.25,0.3917910447761194
+Liquor Retailer,BWS,2022-04-01,38.25,0.37965260545905705
+Liquor Retailer,BWS,2022-05-01,26.0,0.36211699164345407
+Liquor Retailer,BWS,2022-06-01,28.25,0.36688311688311687
+Liquor Retailer,BWS,2022-07-01,25.4,0.4110032362459547
+Liquor Retailer,BWS,2022-08-01,28.0,0.4148148148148148
+Liquor Retailer,BWS,2022-09-01,31.0,0.4175084175084175
+Liquor Retailer,BWS,2022-10-01,28.8,0.4186046511627907
+Liquor Retailer,BWS,2022-11-01,31.25,0.40716612377850164
+Liquor Retailer,BWS,2022-12-01,62.0,0.42538593481989706
+Liquor Retailer,BWS,2023-01-01,31.8,0.42175066312997345
+Liquor Retailer,BWS,2023-02-01,27.75,0.4157303370786517
+Liquor Retailer,BWS,2023-03-01,27.75,0.43359375
+Liquor Retailer,BWS,2023-04-01,34.8,0.43828715365239296
+Liquor Retailer,BWS,2023-05-01,25.5,0.4322033898305085
+Liquor Retailer,BWS,2023-06-01,27.0,0.43724696356275305
+Liquor Retailer,BWS,2023-07-01,26.2,0.42950819672131146
+Liquor Retailer,BWS,2023-08-01,27.0,0.4251968503937008
+Liquor Retailer,BWS,2023-09-01,29.5,0.4229390681003584
+Liquor Retailer,BWS,2023-10-01,28.4,0.4164222873900293
+Liquor Retailer,BWS,2023-11-01,30.5,0.41496598639455784
+Liquor Retailer,BWS,2023-12-01,55.2,0.44301765650080255
+Liquor Retailer,BWS,2024-01-01,30.25,0.44981412639405205
+Liquor Retailer,BWS,2024-02-01,26.75,0.4495798319327731
+Liquor Retailer,BWS,2024-03-01,32.0,0.453257790368272
+Liquor Retailer,BWS,2024-04-01,28.25,0.45564516129032256
+Liquor Retailer,BWS,2024-05-01,25.0,0.45248868778280543
+Liquor Retailer,BWS,2024-06-01,26.4,0.45993031358885017
+Liquor Retailer,BWS,2024-07-01,26.5,0.4649122807017544
+Liquor Retailer,BWS,2024-08-01,26.25,0.45652173913043476
+Liquor Retailer,BWS,2024-09-01,28.8,0.47058823529411764
+Liquor Retailer,BWS,2024-10-01,26.5,0.452991452991453
+Liquor Retailer,BWS,2024-11-01,26.75,0.4403292181069959
+Liquor Retailer,BWS,2024-12-01,52.8,0.46643109540636046
+Liquor Retailer,BWS,2025-01-01,27.25,0.4698275862068966
+Liquor Retailer,BWS,2025-02-01,24.25,0.4597156398104265
+Liquor Retailer,BWS,2025-03-01,24.8,0.4679245283018868
+Liquor Retailer,Cellarbrations,2021-08-01,2.0,0.024390243902439025
+Liquor Retailer,Cellarbrations,2021-09-01,2.0,0.027303754266211604
+Liquor Retailer,Cellarbrations,2021-10-01,2.0,0.02724795640326975
+Liquor Retailer,Cellarbrations,2021-11-01,2.5,0.03164556962025317
+Liquor Retailer,Cellarbrations,2021-12-01,4.75,0.03140495867768595
+Liquor Retailer,Cellarbrations,2022-01-01,2.6,0.038011695906432746
+Liquor Retailer,Cellarbrations,2022-02-01,2.25,0.03488372093023256
+Liquor Retailer,Cellarbrations,2022-03-01,2.0,0.029850746268656716
+Liquor Retailer,Cellarbrations,2022-04-01,3.0,0.02977667493796526
+Liquor Retailer,Cellarbrations,2022-05-01,2.0,0.02785515320334262
+Liquor Retailer,Cellarbrations,2022-06-01,2.0,0.025974025974025976
+Liquor Retailer,Cellarbrations,2022-07-01,2.0,0.03236245954692557
+Liquor Retailer,Cellarbrations,2022-08-01,2.0,0.02962962962962963
+Liquor Retailer,Cellarbrations,2022-09-01,2.25,0.030303030303030304
+Liquor Retailer,Cellarbrations,2022-10-01,2.0,0.029069767441860465
+Liquor Retailer,Cellarbrations,2022-11-01,2.0,0.026058631921824105
+Liquor Retailer,Cellarbrations,2022-12-01,4.25,0.029159519725557463
+Liquor Retailer,Cellarbrations,2023-01-01,2.4,0.031830238726790444
+Liquor Retailer,Cellarbrations,2023-02-01,2.0,0.0299625468164794
+Liquor Retailer,Cellarbrations,2023-03-01,2.0,0.03125
+Liquor Retailer,Cellarbrations,2023-04-01,2.8,0.03526448362720403
+Liquor Retailer,Cellarbrations,2023-05-01,2.0,0.03389830508474576
+Liquor Retailer,Cellarbrations,2023-06-01,2.0,0.032388663967611336
+Liquor Retailer,Cellarbrations,2023-07-01,2.0,0.03278688524590164
+Liquor Retailer,Cellarbrations,2023-08-01,2.0,0.031496062992125984
+Liquor Retailer,Cellarbrations,2023-09-01,2.25,0.03225806451612903
+Liquor Retailer,Cellarbrations,2023-10-01,2.0,0.029325513196480937
+Liquor Retailer,Cellarbrations,2023-11-01,2.0,0.027210884353741496
+Liquor Retailer,Cellarbrations,2023-12-01,3.6,0.028892455858747994
+Liquor Retailer,Cellarbrations,2024-01-01,2.0,0.02973977695167286
+Liquor Retailer,Cellarbrations,2024-02-01,2.0,0.03361344537815126
+Liquor Retailer,Cellarbrations,2024-03-01,2.2,0.031161473087818702
+Liquor Retailer,Cellarbrations,2024-04-01,2.0,0.03225806451612903
+Liquor Retailer,Cellarbrations,2024-05-01,1.75,0.03167420814479638
+Liquor Retailer,Cellarbrations,2024-06-01,2.0,0.03484320557491289
+Liquor Retailer,Cellarbrations,2024-07-01,1.75,0.03070175438596491
+Liquor Retailer,Cellarbrations,2024-08-01,2.0,0.034782608695652174
+Liquor Retailer,Cellarbrations,2024-09-01,2.0,0.032679738562091505
+Liquor Retailer,Cellarbrations,2024-10-01,2.0,0.03418803418803419
+Liquor Retailer,Cellarbrations,2024-11-01,2.0,0.03292181069958848
+Liquor Retailer,Cellarbrations,2024-12-01,3.2,0.02826855123674912
+Liquor Retailer,Cellarbrations,2025-01-01,2.0,0.034482758620689655
+Liquor Retailer,Cellarbrations,2025-02-01,2.0,0.037914691943127965
+Liquor Retailer,Cellarbrations,2025-03-01,2.0,0.03773584905660377
+Liquor Retailer,Dan Murphy's,2021-08-01,12.0,0.14634146341463414
+Liquor Retailer,Dan Murphy's,2021-09-01,10.25,0.13993174061433447
+Liquor Retailer,Dan Murphy's,2021-10-01,10.0,0.13623978201634876
+Liquor Retailer,Dan Murphy's,2021-11-01,11.75,0.14873417721518986
+Liquor Retailer,Dan Murphy's,2021-12-01,24.0,0.15867768595041323
+Liquor Retailer,Dan Murphy's,2022-01-01,9.0,0.13157894736842105
+Liquor Retailer,Dan Murphy's,2022-02-01,10.5,0.16279069767441862
+Liquor Retailer,Dan Murphy's,2022-03-01,16.25,0.24253731343283583
+Liquor Retailer,Dan Murphy's,2022-04-01,32.25,0.3200992555831266
+Liquor Retailer,Dan Murphy's,2022-05-01,22.8,0.3175487465181059
+Liquor Retailer,Dan Murphy's,2022-06-01,25.0,0.3246753246753247
+Liquor Retailer,Dan Murphy's,2022-07-01,13.0,0.21035598705501618
+Liquor Retailer,Dan Murphy's,2022-08-01,14.5,0.21481481481481482
+Liquor Retailer,Dan Murphy's,2022-09-01,16.75,0.2255892255892256
+Liquor Retailer,Dan Murphy's,2022-10-01,14.8,0.21511627906976746
+Liquor Retailer,Dan Murphy's,2022-11-01,16.75,0.2182410423452769
+Liquor Retailer,Dan Murphy's,2022-12-01,34.75,0.23842195540308747
+Liquor Retailer,Dan Murphy's,2023-01-01,16.6,0.22015915119363397
+Liquor Retailer,Dan Murphy's,2023-02-01,14.0,0.20973782771535582
+Liquor Retailer,Dan Murphy's,2023-03-01,12.5,0.1953125
+Liquor Retailer,Dan Murphy's,2023-04-01,16.2,0.2040302267002519
+Liquor Retailer,Dan Murphy's,2023-05-01,11.0,0.1864406779661017
+Liquor Retailer,Dan Murphy's,2023-06-01,11.5,0.1862348178137652
+Liquor Retailer,Dan Murphy's,2023-07-01,11.6,0.1901639344262295
+Liquor Retailer,Dan Murphy's,2023-08-01,12.75,0.20078740157480315
+Liquor Retailer,Dan Murphy's,2023-09-01,14.0,0.2007168458781362
+Liquor Retailer,Dan Murphy's,2023-10-01,14.4,0.21114369501466276
+Liquor Retailer,Dan Murphy's,2023-11-01,16.25,0.22108843537414966
+Liquor Retailer,Dan Murphy's,2023-12-01,26.6,0.21348314606741572
+Liquor Retailer,Dan Murphy's,2024-01-01,12.75,0.1895910780669145
+Liquor Retailer,Dan Murphy's,2024-02-01,10.75,0.18067226890756302
+Liquor Retailer,Dan Murphy's,2024-03-01,12.6,0.1784702549575071
+Liquor Retailer,Dan Murphy's,2024-04-01,11.0,0.1774193548387097
+Liquor Retailer,Dan Murphy's,2024-05-01,9.75,0.17647058823529413
+Liquor Retailer,Dan Murphy's,2024-06-01,9.0,0.15679442508710803
+Liquor Retailer,Dan Murphy's,2024-07-01,9.25,0.16228070175438597
+Liquor Retailer,Dan Murphy's,2024-08-01,9.0,0.1565217391304348
+Liquor Retailer,Dan Murphy's,2024-09-01,9.6,0.1568627450980392
+Liquor Retailer,Dan Murphy's,2024-10-01,9.25,0.1581196581196581
+Liquor Retailer,Dan Murphy's,2024-11-01,10.25,0.16872427983539096
+Liquor Retailer,Dan Murphy's,2024-12-01,21.0,0.1855123674911661
+Liquor Retailer,Dan Murphy's,2025-01-01,8.75,0.15086206896551724
+Liquor Retailer,Dan Murphy's,2025-02-01,8.25,0.15639810426540285
+Liquor Retailer,Dan Murphy's,2025-03-01,8.2,0.15471698113207547
+Liquor Retailer,First Choice,2021-08-01,11.0,0.13414634146341464
+Liquor Retailer,First Choice,2021-09-01,10.25,0.13993174061433447
+Liquor Retailer,First Choice,2021-10-01,10.6,0.1444141689373297
+Liquor Retailer,First Choice,2021-11-01,11.5,0.14556962025316456
+Liquor Retailer,First Choice,2021-12-01,20.0,0.1322314049586777
+Liquor Retailer,First Choice,2022-01-01,9.0,0.13157894736842105
+Liquor Retailer,First Choice,2022-02-01,9.25,0.1434108527131783
+Liquor Retailer,First Choice,2022-03-01,8.5,0.12686567164179105
+Liquor Retailer,First Choice,2022-04-01,9.75,0.0967741935483871
+Liquor Retailer,First Choice,2022-05-01,8.0,0.11142061281337048
+Liquor Retailer,First Choice,2022-06-01,8.0,0.1038961038961039
+Liquor Retailer,First Choice,2022-07-01,8.0,0.12944983818770228
+Liquor Retailer,First Choice,2022-08-01,8.5,0.1259259259259259
+Liquor Retailer,First Choice,2022-09-01,8.75,0.11784511784511785
+Liquor Retailer,First Choice,2022-10-01,8.6,0.125
+Liquor Retailer,First Choice,2022-11-01,10.0,0.13029315960912052
+Liquor Retailer,First Choice,2022-12-01,16.25,0.11149228130360206
+Liquor Retailer,First Choice,2023-01-01,9.0,0.11936339522546419
+Liquor Retailer,First Choice,2023-02-01,8.25,0.12359550561797752
+Liquor Retailer,First Choice,2023-03-01,8.25,0.12890625
+Liquor Retailer,First Choice,2023-04-01,9.2,0.11586901763224182
+Liquor Retailer,First Choice,2023-05-01,7.5,0.1271186440677966
+Liquor Retailer,First Choice,2023-06-01,7.75,0.12550607287449392
+Liquor Retailer,First Choice,2023-07-01,7.6,0.12459016393442622
+Liquor Retailer,First Choice,2023-08-01,8.25,0.12992125984251968
+Liquor Retailer,First Choice,2023-09-01,8.75,0.12544802867383512
+Liquor Retailer,First Choice,2023-10-01,8.6,0.12609970674486803
+Liquor Retailer,First Choice,2023-11-01,9.25,0.12585034013605442
+Liquor Retailer,First Choice,2023-12-01,14.2,0.11396468699839485
+Liquor Retailer,First Choice,2024-01-01,8.25,0.12267657992565056
+Liquor Retailer,First Choice,2024-02-01,7.5,0.12605042016806722
+Liquor Retailer,First Choice,2024-03-01,8.6,0.12181303116147309
+Liquor Retailer,First Choice,2024-04-01,7.25,0.11693548387096774
+Liquor Retailer,First Choice,2024-05-01,6.5,0.11764705882352941
+Liquor Retailer,First Choice,2024-06-01,7.2,0.1254355400696864
+Liquor Retailer,First Choice,2024-07-01,7.25,0.12719298245614036
+Liquor Retailer,First Choice,2024-08-01,7.25,0.12608695652173912
+Liquor Retailer,First Choice,2024-09-01,7.2,0.11764705882352941
+Liquor Retailer,First Choice,2024-10-01,7.0,0.11965811965811966
+Liquor Retailer,First Choice,2024-11-01,7.5,0.12345679012345678
+Liquor Retailer,First Choice,2024-12-01,11.6,0.10247349823321555
+Liquor Retailer,First Choice,2025-01-01,6.5,0.11206896551724138
+Liquor Retailer,First Choice,2025-02-01,6.0,0.11374407582938388
+Liquor Retailer,First Choice,2025-03-01,6.0,0.11320754716981132
+Liquor Retailer,Liquorland,2021-08-01,19.0,0.23170731707317074
+Liquor Retailer,Liquorland,2021-09-01,17.75,0.24232081911262798
+Liquor Retailer,Liquorland,2021-10-01,16.8,0.22888283378746593
+Liquor Retailer,Liquorland,2021-11-01,19.0,0.24050632911392406
+Liquor Retailer,Liquorland,2021-12-01,34.0,0.22479338842975208
+Liquor Retailer,Liquorland,2022-01-01,15.8,0.2309941520467836
+Liquor Retailer,Liquorland,2022-02-01,14.25,0.22093023255813954
+Liquor Retailer,Liquorland,2022-03-01,14.0,0.208955223880597
+Liquor Retailer,Liquorland,2022-04-01,17.5,0.17369727047146402
+Liquor Retailer,Liquorland,2022-05-01,13.0,0.18105849582172703
+Liquor Retailer,Liquorland,2022-06-01,13.75,0.17857142857142858
+Liquor Retailer,Liquorland,2022-07-01,13.4,0.2168284789644013
+Liquor Retailer,Liquorland,2022-08-01,14.5,0.21481481481481482
+Liquor Retailer,Liquorland,2022-09-01,15.5,0.20875420875420875
+Liquor Retailer,Liquorland,2022-10-01,14.6,0.2122093023255814
+Liquor Retailer,Liquorland,2022-11-01,16.75,0.2182410423452769
+Liquor Retailer,Liquorland,2022-12-01,28.5,0.1955403087478559
+Liquor Retailer,Liquorland,2023-01-01,15.6,0.2068965517241379
+Liquor Retailer,Liquorland,2023-02-01,14.75,0.2209737827715356
+Liquor Retailer,Liquorland,2023-03-01,13.5,0.2109375
+Liquor Retailer,Liquorland,2023-04-01,16.4,0.20654911838790932
+Liquor Retailer,Liquorland,2023-05-01,13.0,0.22033898305084745
+Liquor Retailer,Liquorland,2023-06-01,13.5,0.21862348178137653
+Liquor Retailer,Liquorland,2023-07-01,13.6,0.22295081967213115
+Liquor Retailer,Liquorland,2023-08-01,13.5,0.2125984251968504
+Liquor Retailer,Liquorland,2023-09-01,15.25,0.21863799283154123
+Liquor Retailer,Liquorland,2023-10-01,14.8,0.21700879765395895
+Liquor Retailer,Liquorland,2023-11-01,15.5,0.2108843537414966
+Liquor Retailer,Liquorland,2023-12-01,25.0,0.20064205457463882
+Liquor Retailer,Liquorland,2024-01-01,14.0,0.20817843866171004
+Liquor Retailer,Liquorland,2024-02-01,12.5,0.21008403361344538
+Liquor Retailer,Liquorland,2024-03-01,15.2,0.21529745042492918
+Liquor Retailer,Liquorland,2024-04-01,13.5,0.21774193548387097
+Liquor Retailer,Liquorland,2024-05-01,12.25,0.22171945701357465
+Liquor Retailer,Liquorland,2024-06-01,12.8,0.22299651567944254
+Liquor Retailer,Liquorland,2024-07-01,12.25,0.2149122807017544
+Liquor Retailer,Liquorland,2024-08-01,13.0,0.22608695652173913
+Liquor Retailer,Liquorland,2024-09-01,13.6,0.2222222222222222
+Liquor Retailer,Liquorland,2024-10-01,13.75,0.23504273504273504
+Liquor Retailer,Liquorland,2024-11-01,14.25,0.2345679012345679
+Liquor Retailer,Liquorland,2024-12-01,24.6,0.21731448763250888
+Liquor Retailer,Liquorland,2025-01-01,13.5,0.23275862068965517
+Liquor Retailer,Liquorland,2025-02-01,12.25,0.23222748815165878
+Liquor Retailer,Liquorland,2025-03-01,12.0,0.22641509433962265
+Social Media Platforms,Facebook,2021-08-01,82.0,0.5734265734265734
+Social Media Platforms,Facebook,2021-09-01,85.25,0.5899653979238755
+Social Media Platforms,Facebook,2021-10-01,85.8,0.5892857142857143
+Social Media Platforms,Facebook,2021-11-01,80.25,0.5868372943327239
+Social Media Platforms,Facebook,2021-12-01,80.75,0.5757575757575758
+Social Media Platforms,Facebook,2022-01-01,73.2,0.5319767441860466
+Social Media Platforms,Facebook,2022-02-01,75.0,0.5217391304347826
+Social Media Platforms,Facebook,2022-03-01,70.75,0.5136116152450091
+Social Media Platforms,Facebook,2022-04-01,73.25,0.5176678445229682
+Social Media Platforms,Facebook,2022-05-01,71.2,0.5212298682284041
+Social Media Platforms,Facebook,2022-06-01,71.75,0.5246800731261426
+Social Media Platforms,Facebook,2022-07-01,71.8,0.5202898550724637
+Social Media Platforms,Facebook,2022-08-01,72.0,0.51985559566787
+Social Media Platforms,Facebook,2022-09-01,71.25,0.5135135135135135
+Social Media Platforms,Facebook,2022-10-01,71.8,0.5195369030390738
+Social Media Platforms,Facebook,2022-11-01,69.75,0.5185873605947955
+Social Media Platforms,Facebook,2022-12-01,70.5,0.5136612021857924
+Social Media Platforms,Facebook,2023-01-01,70.2,0.5014285714285714
+Social Media Platforms,Facebook,2023-02-01,71.5,0.5116279069767442
+Social Media Platforms,Facebook,2023-03-01,68.5,0.49818181818181817
+Social Media Platforms,Facebook,2023-04-01,68.0,0.49418604651162795
+Social Media Platforms,Facebook,2023-05-01,67.75,0.49452554744525545
+Social Media Platforms,Facebook,2023-06-01,66.25,0.4898336414048059
+Social Media Platforms,Facebook,2023-07-01,66.4,0.4882352941176471
+Social Media Platforms,Facebook,2023-08-01,65.75,0.48613678373382624
+Social Media Platforms,Facebook,2023-09-01,66.25,0.4898336414048059
+Social Media Platforms,Facebook,2023-10-01,65.2,0.4780058651026393
+Social Media Platforms,Facebook,2023-11-01,64.75,0.4823091247672253
+Social Media Platforms,Facebook,2023-12-01,65.8,0.47474747474747475
+Social Media Platforms,Facebook,2024-01-01,62.75,0.46139705882352944
+Social Media Platforms,Facebook,2024-02-01,57.0,0.44271844660194176
+Social Media Platforms,Facebook,2024-03-01,57.0,0.4357798165137614
+Social Media Platforms,Facebook,2024-04-01,55.25,0.431640625
+Social Media Platforms,Facebook,2024-05-01,53.0,0.42063492063492064
+Social Media Platforms,Facebook,2024-06-01,50.6,0.4093851132686084
+Social Media Platforms,Facebook,2024-07-01,50.25,0.4036144578313253
+Social Media Platforms,Facebook,2024-08-01,50.0,0.4
+Social Media Platforms,Facebook,2024-09-01,50.8,0.4038155802861685
+Social Media Platforms,Facebook,2024-10-01,46.25,0.3714859437751004
+Social Media Platforms,Facebook,2024-11-01,44.75,0.37060041407867494
+Social Media Platforms,Facebook,2024-12-01,47.4,0.3810289389067524
+Social Media Platforms,Facebook,2025-01-01,46.75,0.3534971644612476
+Social Media Platforms,Facebook,2025-02-01,46.25,0.37449392712550605
+Social Media Platforms,Facebook,2025-03-01,44.4,0.3724832214765101
+Social Media Platforms,Instagram,2021-08-01,27.0,0.1888111888111888
+Social Media Platforms,Instagram,2021-09-01,24.75,0.17128027681660898
+Social Media Platforms,Instagram,2021-10-01,25.8,0.1771978021978022
+Social Media Platforms,Instagram,2021-11-01,23.75,0.1736745886654479
+Social Media Platforms,Instagram,2021-12-01,24.0,0.1711229946524064
+Social Media Platforms,Instagram,2022-01-01,23.8,0.17296511627906977
+Social Media Platforms,Instagram,2022-02-01,25.5,0.17739130434782607
+Social Media Platforms,Instagram,2022-03-01,24.5,0.17785843920145192
+Social Media Platforms,Instagram,2022-04-01,24.75,0.17491166077738515
+Social Media Platforms,Instagram,2022-05-01,24.6,0.1800878477306003
+Social Media Platforms,Instagram,2022-06-01,24.25,0.1773308957952468
+Social Media Platforms,Instagram,2022-07-01,24.0,0.17391304347826086
+Social Media Platforms,Instagram,2022-08-01,23.25,0.16787003610108303
+Social Media Platforms,Instagram,2022-09-01,23.0,0.16576576576576577
+Social Media Platforms,Instagram,2022-10-01,22.8,0.16497829232995662
+Social Media Platforms,Instagram,2022-11-01,21.75,0.16171003717472118
+Social Media Platforms,Instagram,2022-12-01,22.25,0.1621129326047359
+Social Media Platforms,Instagram,2023-01-01,23.0,0.16428571428571428
+Social Media Platforms,Instagram,2023-02-01,23.0,0.16457960644007155
+Social Media Platforms,Instagram,2023-03-01,23.0,0.16727272727272727
+Social Media Platforms,Instagram,2023-04-01,22.2,0.1613372093023256
+Social Media Platforms,Instagram,2023-05-01,23.0,0.1678832116788321
+Social Media Platforms,Instagram,2023-06-01,21.5,0.1589648798521257
+Social Media Platforms,Instagram,2023-07-01,21.6,0.15882352941176472
+Social Media Platforms,Instagram,2023-08-01,21.0,0.15526802218114602
+Social Media Platforms,Instagram,2023-09-01,21.25,0.15711645101663585
+Social Media Platforms,Instagram,2023-10-01,20.8,0.15249266862170088
+Social Media Platforms,Instagram,2023-11-01,20.5,0.1527001862197393
+Social Media Platforms,Instagram,2023-12-01,20.8,0.15007215007215008
+Social Media Platforms,Instagram,2024-01-01,21.0,0.15441176470588236
+Social Media Platforms,Instagram,2024-02-01,20.25,0.15728155339805824
+Social Media Platforms,Instagram,2024-03-01,20.6,0.15749235474006115
+Social Media Platforms,Instagram,2024-04-01,19.25,0.150390625
+Social Media Platforms,Instagram,2024-05-01,19.25,0.1527777777777778
+Social Media Platforms,Instagram,2024-06-01,18.8,0.15210355987055016
+Social Media Platforms,Instagram,2024-07-01,19.5,0.1566265060240964
+Social Media Platforms,Instagram,2024-08-01,19.5,0.156
+Social Media Platforms,Instagram,2024-09-01,19.6,0.15580286168521465
+Social Media Platforms,Instagram,2024-10-01,20.25,0.16265060240963855
+Social Media Platforms,Instagram,2024-11-01,18.5,0.15320910973084886
+Social Media Platforms,Instagram,2024-12-01,18.2,0.1463022508038585
+Social Media Platforms,Instagram,2025-01-01,20.0,0.15122873345935728
+Social Media Platforms,Instagram,2025-02-01,20.0,0.16194331983805668
+Social Media Platforms,Instagram,2025-03-01,18.8,0.15771812080536915
+Social Media Platforms,Reddit,2021-08-01,22.0,0.15384615384615385
+Social Media Platforms,Reddit,2021-09-01,22.75,0.157439446366782
+Social Media Platforms,Reddit,2021-10-01,22.4,0.15384615384615385
+Social Media Platforms,Reddit,2021-11-01,22.5,0.16453382084095064
+Social Media Platforms,Reddit,2021-12-01,23.5,0.16755793226381463
+Social Media Platforms,Reddit,2022-01-01,29.0,0.21075581395348839
+Social Media Platforms,Reddit,2022-02-01,32.25,0.22434782608695653
+Social Media Platforms,Reddit,2022-03-01,31.25,0.22686025408348456
+Social Media Platforms,Reddit,2022-04-01,31.25,0.22084805653710246
+Social Media Platforms,Reddit,2022-05-01,29.2,0.21376281112737922
+Social Media Platforms,Reddit,2022-06-01,28.75,0.21023765996343693
+Social Media Platforms,Reddit,2022-07-01,29.2,0.21159420289855072
+Social Media Platforms,Reddit,2022-08-01,30.25,0.2184115523465704
+Social Media Platforms,Reddit,2022-09-01,31.75,0.22882882882882882
+Social Media Platforms,Reddit,2022-10-01,31.6,0.2286541244573083
+Social Media Platforms,Reddit,2022-11-01,31.0,0.23048327137546468
+Social Media Platforms,Reddit,2022-12-01,32.25,0.23497267759562843
+Social Media Platforms,Reddit,2023-01-01,34.4,0.2457142857142857
+Social Media Platforms,Reddit,2023-02-01,33.0,0.23613595706618962
+Social Media Platforms,Reddit,2023-03-01,33.0,0.24
+Social Media Platforms,Reddit,2023-04-01,33.6,0.24418604651162792
+Social Media Platforms,Reddit,2023-05-01,34.0,0.24817518248175183
+Social Media Platforms,Reddit,2023-06-01,35.0,0.2587800369685767
+Social Media Platforms,Reddit,2023-07-01,36.0,0.2647058823529412
+Social Media Platforms,Reddit,2023-08-01,36.25,0.2680221811460259
+Social Media Platforms,Reddit,2023-09-01,36.25,0.2680221811460259
+Social Media Platforms,Reddit,2023-10-01,38.6,0.2829912023460411
+Social Media Platforms,Reddit,2023-11-01,37.5,0.27932960893854747
+Social Media Platforms,Reddit,2023-12-01,40.2,0.2900432900432901
+Social Media Platforms,Reddit,2024-01-01,41.0,0.3014705882352941
+Social Media Platforms,Reddit,2024-02-01,39.5,0.3067961165048544
+Social Media Platforms,Reddit,2024-03-01,41.0,0.3134556574923547
+Social Media Platforms,Reddit,2024-04-01,41.25,0.322265625
+Social Media Platforms,Reddit,2024-05-01,41.5,0.32936507936507936
+Social Media Platforms,Reddit,2024-06-01,42.2,0.3414239482200647
+Social Media Platforms,Reddit,2024-07-01,43.25,0.3473895582329317
+Social Media Platforms,Reddit,2024-08-01,42.5,0.34
+Social Media Platforms,Reddit,2024-09-01,43.4,0.3449920508744038
+Social Media Platforms,Reddit,2024-10-01,45.75,0.3674698795180723
+Social Media Platforms,Reddit,2024-11-01,45.25,0.3747412008281574
+Social Media Platforms,Reddit,2024-12-01,46.4,0.3729903536977492
+Social Media Platforms,Reddit,2025-01-01,47.5,0.3591682419659735
+Social Media Platforms,Reddit,2025-02-01,45.25,0.36639676113360325
+Social Media Platforms,Reddit,2025-03-01,43.4,0.3640939597315436
+Social Media Platforms,Snapchat,2021-08-01,3.0,0.02097902097902098
+Social Media Platforms,Snapchat,2021-09-01,3.0,0.020761245674740483
+Social Media Platforms,Snapchat,2021-10-01,3.6,0.024725274725274728
+Social Media Platforms,Snapchat,2021-11-01,3.0,0.021937842778793418
+Social Media Platforms,Snapchat,2021-12-01,3.75,0.026737967914438502
+Social Media Platforms,Snapchat,2022-01-01,3.0,0.02180232558139535
+Social Media Platforms,Snapchat,2022-02-01,3.0,0.020869565217391306
+Social Media Platforms,Snapchat,2022-03-01,3.0,0.021778584392014518
+Social Media Platforms,Snapchat,2022-04-01,3.0,0.02120141342756184
+Social Media Platforms,Snapchat,2022-05-01,3.0,0.021961932650073207
+Social Media Platforms,Snapchat,2022-06-01,3.0,0.021937842778793418
+Social Media Platforms,Snapchat,2022-07-01,3.8,0.02753623188405797
+Social Media Platforms,Snapchat,2022-08-01,4.0,0.02888086642599278
+Social Media Platforms,Snapchat,2022-09-01,4.25,0.03063063063063063
+Social Media Platforms,Snapchat,2022-10-01,3.6,0.026049204052098412
+Social Media Platforms,Snapchat,2022-11-01,3.75,0.027881040892193308
+Social Media Platforms,Snapchat,2022-12-01,3.75,0.0273224043715847
+Social Media Platforms,Snapchat,2023-01-01,3.8,0.027142857142857142
+Social Media Platforms,Snapchat,2023-02-01,4.0,0.028622540250447227
+Social Media Platforms,Snapchat,2023-03-01,4.0,0.02909090909090909
+Social Media Platforms,Snapchat,2023-04-01,5.4,0.039244186046511635
+Social Media Platforms,Snapchat,2023-05-01,4.0,0.029197080291970802
+Social Media Platforms,Snapchat,2023-06-01,3.75,0.027726432532347505
+Social Media Platforms,Snapchat,2023-07-01,3.4,0.024999999999999998
+Social Media Platforms,Snapchat,2023-08-01,4.0,0.029574861367837338
+Social Media Platforms,Snapchat,2023-09-01,3.5,0.025878003696857672
+Social Media Platforms,Snapchat,2023-10-01,3.8,0.027859237536656888
+Social Media Platforms,Snapchat,2023-11-01,3.75,0.027932960893854747
+Social Media Platforms,Snapchat,2023-12-01,4.0,0.02886002886002886
+Social Media Platforms,Snapchat,2024-01-01,3.5,0.025735294117647058
+Social Media Platforms,Snapchat,2024-02-01,4.0,0.031067961165048542
+Social Media Platforms,Snapchat,2024-03-01,4.0,0.030581039755351678
+Social Media Platforms,Snapchat,2024-04-01,4.0,0.03125
+Social Media Platforms,Snapchat,2024-05-01,4.0,0.031746031746031744
+Social Media Platforms,Snapchat,2024-06-01,4.0,0.032362459546925564
+Social Media Platforms,Snapchat,2024-07-01,4.0,0.0321285140562249
+Social Media Platforms,Snapchat,2024-08-01,5.0,0.04
+Social Media Platforms,Snapchat,2024-09-01,4.0,0.03179650238473768
+Social Media Platforms,Snapchat,2024-10-01,4.0,0.0321285140562249
+Social Media Platforms,Snapchat,2024-11-01,4.0,0.033126293995859216
+Social Media Platforms,Snapchat,2024-12-01,3.8,0.030546623794212215
+Social Media Platforms,Snapchat,2025-01-01,4.0,0.030245746691871456
+Social Media Platforms,Snapchat,2025-02-01,4.0,0.032388663967611336
+Social Media Platforms,Snapchat,2025-03-01,4.0,0.03355704697986577
+Social Media Platforms,TikTok,2021-08-01,9.0,0.06293706293706294
+Social Media Platforms,TikTok,2021-09-01,8.75,0.06055363321799308
+Social Media Platforms,TikTok,2021-10-01,8.0,0.054945054945054944
+Social Media Platforms,TikTok,2021-11-01,7.25,0.05301645338208409
+Social Media Platforms,TikTok,2021-12-01,8.25,0.058823529411764705
+Social Media Platforms,TikTok,2022-01-01,8.6,0.0625
+Social Media Platforms,TikTok,2022-02-01,8.0,0.05565217391304348
+Social Media Platforms,TikTok,2022-03-01,8.25,0.05989110707803993
+Social Media Platforms,TikTok,2022-04-01,9.25,0.06537102473498234
+Social Media Platforms,TikTok,2022-05-01,8.6,0.0629575402635432
+Social Media Platforms,TikTok,2022-06-01,9.0,0.06581352833638025
+Social Media Platforms,TikTok,2022-07-01,9.2,0.06666666666666667
+Social Media Platforms,TikTok,2022-08-01,9.0,0.06498194945848375
+Social Media Platforms,TikTok,2022-09-01,8.5,0.06126126126126126
+Social Media Platforms,TikTok,2022-10-01,8.4,0.06078147612156296
+Social Media Platforms,TikTok,2022-11-01,8.25,0.06133828996282528
+Social Media Platforms,TikTok,2022-12-01,8.5,0.061930783242258654
+Social Media Platforms,TikTok,2023-01-01,8.6,0.06142857142857142
+Social Media Platforms,TikTok,2023-02-01,8.25,0.059033989266547404
+Social Media Platforms,TikTok,2023-03-01,9.0,0.06545454545454546
+Social Media Platforms,TikTok,2023-04-01,8.4,0.06104651162790698
+Social Media Platforms,TikTok,2023-05-01,8.25,0.060218978102189784
+Social Media Platforms,TikTok,2023-06-01,8.75,0.06469500924214418
+Social Media Platforms,TikTok,2023-07-01,8.6,0.06323529411764706
+Social Media Platforms,TikTok,2023-08-01,8.25,0.06099815157116451
+Social Media Platforms,TikTok,2023-09-01,8.0,0.059149722735674676
+Social Media Platforms,TikTok,2023-10-01,8.0,0.05865102639296187
+Social Media Platforms,TikTok,2023-11-01,7.75,0.05772811918063315
+Social Media Platforms,TikTok,2023-12-01,7.8,0.05627705627705628
+Social Media Platforms,TikTok,2024-01-01,7.75,0.05698529411764706
+Social Media Platforms,TikTok,2024-02-01,8.0,0.062135922330097085
+Social Media Platforms,TikTok,2024-03-01,8.2,0.06269113149847094
+Social Media Platforms,TikTok,2024-04-01,8.25,0.064453125
+Social Media Platforms,TikTok,2024-05-01,8.25,0.06547619047619048
+Social Media Platforms,TikTok,2024-06-01,8.0,0.06472491909385113
+Social Media Platforms,TikTok,2024-07-01,7.5,0.060240963855421686
+Social Media Platforms,TikTok,2024-08-01,8.0,0.064
+Social Media Platforms,TikTok,2024-09-01,8.0,0.06359300476947535
+Social Media Platforms,TikTok,2024-10-01,8.25,0.06626506024096386
+Social Media Platforms,TikTok,2024-11-01,8.25,0.06832298136645963
+Social Media Platforms,TikTok,2024-12-01,8.6,0.06913183279742764
+Social Media Platforms,TikTok,2025-01-01,14.0,0.10586011342155009
+Social Media Platforms,TikTok,2025-02-01,8.0,0.06477732793522267
+Social Media Platforms,TikTok,2025-03-01,8.6,0.07214765100671142

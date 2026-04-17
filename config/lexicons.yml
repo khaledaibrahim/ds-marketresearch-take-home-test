@@ -1,0 +1,140 @@
+intent:
+  - best
+  - buy
+  - compare
+  - deal
+  - near me
+  - price
+  - pricing
+  - quote
+  - quotes
+  - review
+  - reviews
+  - switch
+  - trial
+  - try
+  - worth it
+salience:
+  - ad
+  - advert
+  - aware
+  - familiar
+  - heard of
+  - know
+  - notice
+  - noticed
+  - recommendation
+  - recommend
+  - recognizable
+  - seen
+  - seeing
+emotion_positive:
+  - anticipation
+  - confident
+  - excited
+  - joy
+  - love
+  - relief
+  - satisfied
+  - trust
+emotion_negative:
+  - angry
+  - complaint
+  - disappointed
+  - disgust
+  - fear
+  - frustrated
+  - hate
+  - risk
+  - upset
+controversy:
+  - boycott
+  - issue
+  - problem
+  - recall
+  - scandal
+  - unsafe
+category_overrides:
+  Household Cleaners (Indoor):
+    intent:
+      - antibacterial
+      - cleaner
+      - disinfect
+      - hygiene
+      - mould
+      - stain
+    salience:
+      - bathroom
+      - kitchen
+      - laundry
+      - spray
+      - wipe
+    emotion_positive:
+      - fresh
+      - clean
+      - effective
+    emotion_negative:
+      - chemical
+      - harsh
+      - smell
+      - sticky
+    controversy:
+      - toxic
+      - residue
+      - irritation
+  Audio Content:
+    intent:
+      - audiobook
+      - download
+      - listen
+      - offline
+      - playlist
+      - podcast
+      - premium
+      - subscription
+    salience:
+      - creator
+      - discovery
+      - radio
+      - streaming
+    emotion_positive:
+      - convenient
+      - curated
+      - seamless
+    emotion_negative:
+      - ads
+      - buffering
+      - expensive
+      - skip
+    controversy:
+      - paywall
+      - price hike
+  Social Media Platforms:
+    intent:
+      - account
+      - creator
+      - follow
+      - post
+      - sign up
+      - social app
+    salience:
+      - feed
+      - platform
+      - reel
+      - short video
+      - story
+      - timeline
+    emotion_positive:
+      - entertaining
+      - engaging
+      - viral
+    emotion_negative:
+      - addictive
+      - doomscroll
+      - spam
+      - toxic
+    controversy:
+      - algorithm
+      - ban
+      - misinformation
+      - privacy

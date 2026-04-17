@@ -1,0 +1,4 @@
+source,category_name,brand_name,signal_date,mention_count,mean_signal_value,intent_matches,salience_matches,emotion_positive_matches,emotion_negative_matches,controversy_matches,intent_matches_per_mention,salience_matches_per_mention,emotion_positive_matches_per_mention,emotion_negative_matches_per_mention,controversy_matches_per_mention
+reddit,Household Cleaners (Indoor),Ajax,2025-01-01,1,1.0,0,1,0,0,0,0.0,1.0,0.0,0.0,0.0
+reddit,Household Cleaners (Indoor),Dettol,2025-01-01,1,1.0,1,0,0,0,0,1.0,0.0,0.0,0.0,0.0
+reddit,Liquor Retailer,Dan Murphy's,2025-01-01,1,1.0,1,0,0,0,0,1.0,0.0,0.0,0.0,0.0

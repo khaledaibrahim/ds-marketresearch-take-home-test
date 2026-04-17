@@ -1,0 +1,4 @@
+text,intent_matches,intent_share,salience_matches,salience_share,emotion_positive_matches,emotion_positive_share,emotion_negative_matches,emotion_negative_share,controversy_matches,controversy_share,token_count
+I keep seeing this brand everywhere and now I am curious to try it.,1,0.07142857142857142,1,0.07142857142857142,0,0.0,0,0.0,0,0.0,14
+"Best value, compare prices, worth switching for the next purchase.",2,0.2,0,0.0,0,0.0,0,0.0,0,0.0,10
+"People are talking about the brand, but the tone feels angry and frustrated.",0,0.0,0,0.0,0,0.0,2,0.15384615384615385,0,0.0,13

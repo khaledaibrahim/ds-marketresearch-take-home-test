@@ -1,158 +1,136 @@
-# Share of Search as a Proxy for Brand Consideration
-## Tracksuit × Google Trends — Australian Market Study
+# Tracksuit Take-Home Write-Up
 
-**Author:** Khaled Ibrahim  
-**Date:** April 2026  
-**Dataset:** Tracksuit brand-health survey data (Sep 2021 – Mar 2025) + Google Trends (SERPApi, `geo=AU`)
+## Research Question
 
----
+When can search-based signals complement Tracksuit's survey-based brand metrics, and how might a lightweight text layer improve interpretation?
 
-## Executive Summary
+## Proposed Answer
 
-Share of Search (SoS) — a brand's fraction of total category search volume — is meaningfully correlated with brand consideration in Australian consumer markets, but the strength and commercial utility of this relationship depends heavily on where consumers sit in their purchase journey.
+My working hypothesis is that search should be treated as a directional, behavioral proxy for consideration rather than a universal substitute for survey-based brand tracking. Its practical value should increase when:
 
-In high-intent categories where consumers research before buying (mattresses, car insurance), SoS tracks consideration closely and tends to *lead* it by 1–2 months — making it a genuine early-warning metric. In low-intent impulse categories (chocolate), the two signals diverge, driven by different underlying mechanisms.
+- the category has enough consumer intent to generate meaningful search volume
+- brand choice is explicit enough that search terms map to brands cleanly
+- search is interpreted alongside text signals that distinguish healthy interest from controversy or noise
 
-The practical implication: SoS should be positioned as a real-time corroborating signal for high-intent category clients, with clear guardrails against overinterpretation in low-intent verticals.
+This leads to a more product-relevant recommendation than a pure correlation study: use search to detect movement quickly, then use discourse signals to interpret whether that movement reflects demand, salience, or friction.
 
----
+## Study Design
 
-## 1. Study Design
+1. Reshape the survey data into a brand-month panel with awareness, consideration, and preference.
+2. Compute funnel conversion metrics and within-category share metrics.
+3. Identify categories where search triangulation is most likely to be informative.
+4. Pilot a lexicon layer for text-based signals covering intent, salience, emotion, and controversy.
 
-### 1.1 Research Question
+## Lexicon Method
 
-> *Does Share of Search predict brand consideration? And is this relationship stronger in categories with higher consumer purchase intent?*
+The text layer is lexicon-based by design: the goal is interpretability and scalability rather than building a fully supervised NLP model for a small take-home sample.
 
-The purchase-intent hypothesis is theoretically motivated: consumers searching for mattresses are actively in the market, so their search behaviour directly reflects consideration. Consumers searching for chocolate may be reacting to a viral post or an in-store promotion, with no necessary connection to the survey-measured consideration construct.
+I use five lexicon families:
 
-### 1.2 Categories Studied
+- `intent`: words and phrases that imply active evaluation or purchase behavior such as `compare`, `switch`, `best`, `review`, and `worth it`
+- `salience`: words that indicate brand noticing, familiarity, or visibility such as `know`, `noticed`, `seen`, and `recommend`
+- `emotion_positive`: words that signal favorable affect or ease such as `trust`, `love`, `convenient`, and `effective`
+- `emotion_negative`: words that capture friction or aversion such as `frustrated`, `harsh`, `smell`, `expensive`, and `toxic`
+- `controversy`: words associated with risk, policy, or reputational concern such as `privacy`, `algorithm`, `ban`, `problem`, and `scandal`
 
-| Category | Intent level | Brands | Rationale |
-|---|---|---|---|
-| Mattresses, beds & pillows | 🔴 High | 10 | Considered purchase, long research phase |
-| Car Insurance | 🔴 High | 10 | Annual renewal cycle, price comparison behaviour |
-| Fast Food | 🟡 Moderate | 15 | Habitual + occasional discovery (new outlets) |
-| Department Stores | 🟡 Moderate | 6 | Mix of routine and occasion-driven visits |
-| Chocolate | 🟢 Low | 7 | Impulse purchase, minimal online research |
+Methodologically, this should be described as a hybrid approach:
 
-### 1.3 Data Collection
+- the affect layer is inspired by human emotion lexicon work such as the NRC Emotion Lexicon and similar NRC-style emotion categories
+- the actual lexicons used in this project are not a direct NRC implementation; they are custom, category-aware dictionaries tuned for the Tracksuit use case
+- the custom part is intentional because Tracksuit's decision problem is not generic sentiment detection; it is distinguishing demand, salience, friction, and controversy in brand discussion
 
-**Tracksuit data:** Provided sample dataset. Metrics: PROMPTED_AWARENESS, CONSIDERATION, PREFERENCE as % of weighted respondents per brand per monthly wave.
+In practice, the design is:
 
-**Google Trends data:** Collected via SERPApi (`engine=google_trends`, `data_type=TIMESERIES`, `geo=AU`, monthly granularity). Because Google Trends limits queries to 5 keywords per call, categories with more than 5 brands used an **anchor-brand normalization**: one brand (e.g., "Koala" for mattresses) was included in every batch, and the ratio of its index values across batches was used to rescale all batches onto a common scale. All API responses were cached as JSON to ensure reproducibility.
+- `emotion_positive` and `emotion_negative` are the closest pieces to an NRC-style affect layer
+- `intent`, `salience`, and `controversy` are business-specific extensions added to make the method useful for brand tracking and market-research interpretation
 
-**Share of Search:** Computed as `brand_index_value / sum(all_brand_index_values_in_category_that_month)`. This normalizes the relative-scale Google Trends index into a share metric that is comparable across time periods.
+The category-specific overrides are important for validity. For example:
 
-**Merge:** Inner join on (category_name, brand_name, date). Only brand-month observations present in both datasets were retained for analysis.
+- in `Audio Content`, terms like `subscription`, `offline`, and `playlist` are meaningful intent or usage signals
+- in `Household Cleaners (Indoor)`, terms like `mould`, `harsh`, `chemical`, and `smell` matter more than generic sentiment words
+- in `Social Media Platforms`, terms like `algorithm`, `privacy`, and `creator` help separate platform controversy from simple popularity
 
-### 1.4 Analytical Layers
+This makes the system more explainable and easier to adapt at scale, because the same framework can be extended with category-specific dictionaries across many verticals without retraining a model.
 
-Five complementary analyses were conducted:
+## Early Baseline Read
 
-1. **Cross-sectional correlation** — Do brands with higher SoS also have higher consideration within the same category at a given month?
-2. **Within-brand longitudinal correlation** — Does a brand's SoS co-move with its consideration over time (both in levels and first differences)?
-3. **Cross-lagged correlation** — Does SoS at time *t−k* predict consideration at time *t* better at *k > 0* than at *k = 0*?
-4. **Granger causality** — Does past SoS contain incremental information for predicting future consideration, beyond what past consideration alone provides?
-5. **Rank correlation** — Does the ranking of brands by SoS agree with their ranking by consideration survey?
+The initial baseline suggests that some categories have especially strong funnel alignment and enough structure to justify a triangulation pilot. Early candidates include:
 
----
+- Liquor Retailer
+- Garden Care
+- Household Cleaners (Indoor)
+- Sugar confectionery
+- Audio Content
 
-## 2. Solution
+These categories combine enough monthly depth, enough brands, and enough variation in consideration to make external signals more useful.
 
-### 2.1 Finding 1 — The Contemporaneous Relationship Exists and Is Intent-Moderated
+## Live Trends Read
 
-Within-brand Pearson correlations between SoS and consideration over time are positive across all categories, but systematically higher in high-intent categories. When correlations are averaged using Fisher's z-transformation (to correct for the bias of averaging bounded statistics):
+I collected live Google Trends data for four shortlisted categories and merged it to the survey panel at the brand-month level. The first pass points to a clear category-conditional result:
 
-- **High-intent categories** (Mattresses, Car Insurance): mean r ≈ 0.4–0.6
-- **Moderate-intent categories** (Fast Food, Department Stores): mean r ≈ 0.2–0.4  
-- **Low-intent category** (Chocolate): mean r ≈ 0.1–0.2
+- `Liquor Retailer` shows strong search alignment with share of consideration
+- `Audio Content` also shows a meaningful positive relationship
+- `Social Media Platforms` is mixed: search appears somewhat useful, but less cleanly tied to awareness
+- `Household Cleaners (Indoor)` performs poorly, suggesting that search is a weak proxy there
 
-The Mann-Whitney U test comparing the distribution of per-brand correlations between high and low intent groups confirms this difference is statistically reliable (see notebook for exact p-value, which depends on the collected data).
+In other words, the data supports using search as a complement in categories where brand-level consumer intent is explicit and digitally expressed, but not as a universal substitute for survey data.
 
-After first-differencing both series (removing any shared long-term trend), the correlations attenuate but remain positive for high-intent categories — confirming the relationship is not merely an artefact of common trends.
+## Reddit Pilot Read
 
-### 2.2 Finding 2 — Search Leads Consideration in High-Intent Categories
+I also built a small Reddit pilot with 20 rows per category across:
 
-The cross-lagged correlation function — measuring r between SoS(t-k) and consideration(t) for k = 0, 1, 2, 3, 4 months — peaks at k = 1 or 2 for high-intent categories. This means SoS measured today is a better predictor of *next month's* consideration than today's consideration is of itself.
+- `Household Cleaners (Indoor)`
+- `Audio Content`
+- `Social Media Platforms`
 
-In practical terms: when Koala mattresses' search share rises in February, their survey-measured consideration tends to be elevated in March or April. The search signal leads the survey by 4–8 weeks.
+The lexicon-scored pilot adds interpretive value on top of search:
 
-For low-intent categories, the cross-lag function is flat or peaks at k = 0, consistent with both metrics responding simultaneously to common drivers (advertising, promotions, seasonal patterns) rather than search predicting consideration causally.
+- `Audio Content` is rich in intent and switching language: limits, top-ups, value, substitutions, and workarounds
+- `Household Cleaners (Indoor)` is rich in negative-friction language: smell, harshness, chemical concern, and safety trade-offs
+- `Social Media Platforms` is strongest in salience and controversy: algorithm frustration, ad load, privacy, and creator uncertainty
 
-### 2.3 Finding 3 — Granger Causality Confirms Temporal Priority
+This supports the triangulation argument directly: text helps explain whether attention reflects active demand, ordinary salience, or negative attention.
 
-The formal Granger causality tests (with ADF-based stationarity checking and first-differencing where required) find that SoS Granger-causes consideration at p < 0.10 for a meaningfully higher proportion of brands in high-intent categories than in low-intent ones.
+## Validation Principles
 
-Importantly, Granger causality is a test of **predictive priority**, not true causality. The correct interpretation is: *past values of SoS contain information about future consideration that is not already captured by past consideration alone.* This is sufficient to justify using SoS as a leading indicator, without making strong causal claims.
+- Separate descriptive findings from stronger causal claims.
+- Highlight where the relationship is strong, weak, or ambiguous by category.
+- Treat social or text-based signals as an interpretation layer unless they clearly improve predictive value.
+- Be explicit that the lexicon layer is a transparent heuristic method, not a validated psychological measurement instrument.
+- Use lexicons to classify attention into interpretable buckets, not to claim exact emotional states for individuals.
+- Treat category-specific lexicon tuning as an operational design choice that improves product usefulness but still requires further validation on larger samples.
 
-### 2.4 Finding 4 — Rank Agreement Is High in High-Intent Categories
+## Product Implication
 
-The Spearman rank correlation between brand SoS rank and brand consideration rank within a category is consistently higher in high-intent categories. In Car Insurance and Mattresses, the brand ranked #1 on search is most often also ranked #1 or #2 on consideration. In Chocolate, the rank orders diverge more often — reflecting that search frequency (driven by content marketing, viral moments) and survey consideration (driven by in-store experience, advertising recall) are genuinely different constructs in impulse categories.
+If the final analysis supports the baseline read, I would not recommend replacing surveys with search broadly. I would recommend a tiered product approach:
 
----
+- use search as a fast directional indicator for consideration-heavy categories
+- use text-based lexicons to explain why attention is moving
+- keep survey data as the calibration layer for brand health interpretation
 
-## 3. Validation
+## Scalability
 
-### How to explain this to a non-technical teammate
+This approach is intentionally designed to scale:
 
-**The one-sentence version:** When Australians start researching a big purchase like a mattress or car insurance, they Google it first — and that search activity shows up in our data before they'd say "yes" in a survey.
+- the survey and Trends pieces already operate as structured brand-month panels
+- the text layer can be applied to any text source that can be mapped to brand, category, and date
+- the lexicon system is modular, so new categories can be supported by adding targeted override dictionaries rather than redesigning the whole pipeline
 
-**The analogy:** Think of search as the advance party. When someone Googles "best mattress Australia 2024," they haven't decided to buy Koala yet — but their consideration is building. A month or two later, when the survey asks them "which mattress brands are you considering?", Koala is more likely to be on their list. The search came first.
+In a larger production framework, I would evolve this by:
 
-**Why it doesn't work for chocolate:** Nobody Googles "best Cadbury vs Lindt" before grabbing something off the supermarket shelf. Chocolate purchase is spontaneous — driven by what catches your eye, what's on promotion, what mood you're in. Search and consideration are decoupled because they're driven by different things.
+- expanding the lexicons with expert review and category QA
+- benchmarking the lexicon features against human-coded samples
+- using the lexicon outputs as transparent baseline features before introducing more complex NLP models
 
-**What this means for a client call:** If you're working with a car insurance client and their SoS just jumped 3 points last month, you can tell them: "Based on our analysis, this often predicts an improvement in your consideration score over the next 1–2 months. Keep an eye on your next survey wave." That's a concrete, actionable insight — and it's something they can't get from the survey alone.
+## Final Recommendation
 
-**The honest caveat:** We're talking about a statistical tendency across many brands, not a guarantee for any individual brand-month. Some months search goes up and consideration doesn't follow. But as a pattern, it's reliable enough to be worth building into your client conversation.
+My recommendation would be:
 
----
-
-## 4. Future Work
-
-### Immediate improvements (within this project)
-
-**Expand the brand name override dictionary.** The merge between Tracksuit brand names and Google Trends search terms relies on a hand-curated mapping. Automated fuzzy-matching with manual verification would reduce the risk of missed brands.
-
-**Use weekly resolution where possible.** Tracksuit surveys are monthly, but Google Trends is available weekly. If future access to weekly survey data becomes available, the lag analysis could be sharpened from months to weeks.
-
-**Test alternative outcomes.** This study used consideration as the primary outcome. Preference (further down the funnel) may show an even stronger SoS relationship in high-intent categories, since it captures near-purchase intent — closer to what active searchers are signalling.
-
-### Methodological extensions
-
-**Media mix modelling as a control.** The most important confound is advertising spend: a campaign simultaneously raises awareness, consideration, and search. Controlling for media spend (GRPs, digital spend) would let us estimate the *incremental* SoS effect net of advertising — a much cleaner causal identification.
-
-**Event study design.** Identify exogenous brand events (product recalls, major PR crises, unexpected sponsorship announcements) where the event is unlikely to have been anticipated. Measure whether search spikes from the event precede or follow consideration changes. This would provide quasi-causal evidence with much stronger internal validity than Granger tests.
-
-**Bayesian Structural Time Series (BSTS).** Replace Granger tests with BSTS (e.g., via the `causalimpact` library). BSTS is better at handling non-stationarity, provides interpretable credible intervals, and can model counterfactual consideration trajectories. Particularly valuable for brand-event analysis.
-
-**Multi-level / hierarchical modelling.** Rather than analysing each brand independently and then aggregating, a mixed-effects model would borrow strength across brands within a category — improving estimates for brands with shorter data histories.
-
-**Branded vs. generic search signals.** This study uses branded search (searching for specific brand names). Generic category-level search (e.g., "car insurance comparison") likely precedes branded search in the consumer journey. Integrating both signals could improve lead time and predictive accuracy.
-
-### Productisation path
-
-The most commercially viable extension would be an **early-warning dashboard** that:
-1. Monitors weekly SoS for a client's category
-2. Applies a simple lag-correction model (calibrated per category on historical data)
-3. Surfaces a "predicted consideration change" estimate for the next survey wave
-4. Flags competitors whose SoS is rising faster than expected
-
-This would transform SoS from an interesting analytical finding into an actionable client deliverable — shortening the feedback loop between market activity and insight delivery.
-
----
-
-## Appendix — Statistical Choices
-
-| Choice | Rationale |
-|---|---|
-| Pearson r (not Spearman) for longitudinal | Both SoS and consideration are roughly continuous and normally distributed within brand; Pearson is more powerful |
-| Spearman r for cross-sectional rank analysis | Rank comparison is the natural frame for "does search rank agree with survey rank?" and is more robust to outlier brands |
-| Fisher's z for averaging correlations | Pearson r is bounded [−1, 1] so simple averaging is biased; Fisher's z transforms to an unbounded scale, averages correctly, then transforms back |
-| First-differencing for Granger | Brand-health series are typically non-stationary (trending over time). First-differencing removes this trend, preventing spurious Granger results |
-| ADF test before first-differencing | Avoids over-differencing for stationary series where the raw levels are already appropriate |
-| p < 0.10 threshold for Granger | With ~40 monthly observations per brand, power at p < 0.05 is limited. We report both thresholds; the p < 0.10 headline emphasises the directional pattern rather than a strict significance gate |
-| Anchor-brand normalization | Google Trends only allows 5-brand comparison per call. The anchor method is the standard workaround used in peer-reviewed SoS literature (see Danenberg et al., 2016; Scheibehenne & Miesler, 2022) |
-
----
-
-*Code available at: [GitHub repo link] — all analyses are fully reproducible from the raw data files.*
+1. Do not position Share of Search as a universal replacement for survey-based consideration.
+2. Use Share of Search selectively in categories where it empirically aligns with consideration and where brand search intent is naturally high.
+3. Add a lightweight text interpretation layer so that spikes in search or discussion can be classified as:
+- purchase or switching intent
+- general brand salience
+- product friction or dissatisfaction
+- controversy or platform-level concern
+4. Keep survey tracking as the decision anchor, while using search plus text as a cheaper and faster complement between waves.

@@ -1,0 +1,16 @@
+category_name,subreddit,brand_name,query_theme,search_query,why_it_matters
+Household Cleaners (Indoor),CleaningTips,Dettol,brand_review,Dettol cleaner review,Direct product evaluation language is useful for intent and negative-friction scoring
+Household Cleaners (Indoor),CleaningTips,Ajax,usage_problem,Ajax spray review,Captures practical usage and performance language
+Household Cleaners (Indoor),AussieFrugal,Earth Choice,eco_positioning,Earth Choice cleaner,Useful for value and eco-led consideration
+Household Cleaners (Indoor),CleaningTips,,category_recommendation,best bathroom cleaner australia,Good source of competitor-set and recommendation language
+Household Cleaners (Indoor),CleaningTips,,need_state,mould cleaner recommendation,Targets high-intent problem-solving language
+Audio Content,audiobooks,Spotify,brand_comparison,Spotify audiobooks vs Audible,High-value switching and comparison language
+Audio Content,spotify,Spotify,feature_limit,Spotify premium audiobook limit,Useful for friction and controversy interpretation
+Audio Content,podcasts,,category_recommendation,podcast app recommendation,Captures choice-set and consideration language
+Audio Content,AppleMusic,Apple Music,brand_comparison,Apple Music vs Spotify podcasts,Good for salience and switching intent
+Audio Content,audiobooks,Audible,value_assessment,Audible subscription worth it,Direct intent and price-sensitivity phrasing
+Social Media Platforms,socialmedia,Instagram,algorithm_risk,Instagram algorithm change,Useful for controversy and negative-attention language
+Social Media Platforms,TikTok,TikTok,policy_risk,TikTok privacy concerns,High-salience controversy signal
+Social Media Platforms,facebook,Facebook,value_assessment,Facebook groups still worth it,Good for retention and utility discussion
+Social Media Platforms,socialmedia,,creator_choice,best platform for creators,Captures active evaluation between brands
+Social Media Platforms,socialmedia,,category_recommendation,short video app recommendation,Useful for app-choice intent

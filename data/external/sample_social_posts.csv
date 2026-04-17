@@ -1,0 +1,4 @@
+source,category_name,brand_name,signal_date,signal_type,signal_value,signal_unit,text,url,notes
+reddit,Household Cleaners (Indoor),Dettol,2025-01-01,mentions,1,count,"I've started comparing indoor cleaners again and Dettol keeps coming up in review threads.",https://example.com/post-1,Mock example row for lexicon scoring
+reddit,Household Cleaners (Indoor),Ajax,2025-01-01,mentions,1,count,"People know Ajax well but the recent complaints about the smell seem to be growing.",https://example.com/post-2,Mock example row for lexicon scoring
+reddit,Liquor Retailer,Dan Murphy's,2025-01-01,mentions,1,count,"I always check Dan Murphy's prices first before I buy.",https://example.com/post-3,Mock example row for lexicon scoring

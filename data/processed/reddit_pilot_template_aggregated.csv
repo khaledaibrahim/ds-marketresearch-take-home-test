@@ -1,0 +1,48 @@
+source,category_name,brand_name,signal_date,mention_count,mean_signal_value,intent_matches,salience_matches,emotion_positive_matches,emotion_negative_matches,controversy_matches,intent_matches_per_mention,salience_matches_per_mention,emotion_positive_matches_per_mention,emotion_negative_matches_per_mention,controversy_matches_per_mention
+reddit,Audio Content,Audible,2025-09-03,1,1.0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+reddit,Audio Content,Spotify,2023-11-20,1,1.0,2,0,0,0,0,2.0,0.0,0.0,0.0,0.0
+reddit,Audio Content,Spotify,2023-11-28,1,1.0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+reddit,Audio Content,Spotify,2024-02-11,1,1.0,0,0,0,1,0,0.0,0.0,0.0,1.0,0.0
+reddit,Audio Content,Spotify,2024-12-14,1,1.0,1,0,0,0,0,1.0,0.0,0.0,0.0,0.0
+reddit,Audio Content,Spotify,2025-02-02,1,1.0,1,0,0,0,0,1.0,0.0,0.0,0.0,0.0
+reddit,Audio Content,Spotify,2025-04-17,1,1.0,1,0,0,0,0,1.0,0.0,0.0,0.0,0.0
+reddit,Audio Content,Spotify,2025-05-12,1,1.0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+reddit,Audio Content,Spotify,2025-07-09,1,1.0,1,0,0,0,0,1.0,0.0,0.0,0.0,0.0
+reddit,Audio Content,Spotify,2025-07-10,1,1.0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+reddit,Audio Content,Spotify,2025-10-25,1,1.0,1,0,0,0,1,1.0,0.0,0.0,0.0,1.0
+reddit,Audio Content,Spotify,2025-11-08,1,1.0,3,0,0,0,0,3.0,0.0,0.0,0.0,0.0
+reddit,Audio Content,Spotify,2025-12-14,3,1.0,1,0,1,0,1,0.3333333333333333,0.0,0.3333333333333333,0.0,0.3333333333333333
+reddit,Audio Content,Spotify,2025-12-15,2,1.0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+reddit,Audio Content,Spotify,2025-12-17,1,1.0,1,0,0,0,0,1.0,0.0,0.0,0.0,0.0
+reddit,Audio Content,Spotify,2025-12-18,1,1.0,0,0,0,0,1,0.0,0.0,0.0,0.0,1.0
+reddit,Audio Content,Spotify,2026-04-01,1,1.0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+reddit,Household Cleaners (Indoor),Ajax,2024-03-09,1,1.0,0,0,0,1,0,0.0,0.0,0.0,1.0,0.0
+reddit,Household Cleaners (Indoor),Ajax,2024-11-09,1,1.0,0,1,0,0,0,0.0,1.0,0.0,0.0,0.0
+reddit,Household Cleaners (Indoor),Dettol,2022-01-14,1,1.0,0,0,0,2,0,0.0,0.0,0.0,2.0,0.0
+reddit,Household Cleaners (Indoor),Dettol,2023-01-17,1,1.0,0,0,0,1,0,0.0,0.0,0.0,1.0,0.0
+reddit,Household Cleaners (Indoor),Dettol,2024-01-18,1,1.0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+reddit,Household Cleaners (Indoor),Dettol,2026-02-05,1,1.0,0,0,0,3,0,0.0,0.0,0.0,3.0,0.0
+reddit,Household Cleaners (Indoor),Dettol,2026-02-08,1,1.0,0,0,0,1,0,0.0,0.0,0.0,1.0,0.0
+reddit,Household Cleaners (Indoor),Dettol,2026-04-11,1,1.0,0,0,0,1,0,0.0,0.0,0.0,1.0,0.0
+reddit,Household Cleaners (Indoor),Earth Choice,2023-06-04,1,1.0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+reddit,Household Cleaners (Indoor),Earth Choice,2023-11-14,1,1.0,1,1,0,0,0,1.0,1.0,0.0,0.0,0.0
+reddit,Household Cleaners (Indoor),,2023-06-04,1,1.0,2,1,0,0,0,2.0,1.0,0.0,0.0,0.0
+reddit,Household Cleaners (Indoor),,2023-07-03,1,1.0,1,0,1,0,0,1.0,0.0,1.0,0.0,0.0
+reddit,Household Cleaners (Indoor),,2024-04-08,2,1.0,5,0,0,0,0,2.5,0.0,0.0,0.0,0.0
+reddit,Household Cleaners (Indoor),,2024-07-07,2,1.0,1,0,0,0,0,0.5,0.0,0.0,0.0,0.0
+reddit,Household Cleaners (Indoor),,2025-07-07,4,1.0,2,0,1,2,1,0.5,0.0,0.25,0.5,0.25
+reddit,Social Media Platforms,Instagram,2024-03-12,1,1.0,1,0,0,0,0,1.0,0.0,0.0,0.0,0.0
+reddit,Social Media Platforms,Instagram,2024-03-13,1,1.0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+reddit,Social Media Platforms,Instagram,2025-05-08,1,1.0,1,0,0,0,0,1.0,0.0,0.0,0.0,0.0
+reddit,Social Media Platforms,Instagram,2025-09-23,5,1.0,5,2,0,0,0,1.0,0.4,0.0,0.0,0.0
+reddit,Social Media Platforms,Instagram,2025-09-30,1,1.0,1,0,0,0,0,1.0,0.0,0.0,0.0,0.0
+reddit,Social Media Platforms,Instagram,2025-10-03,1,1.0,1,0,0,1,1,1.0,0.0,0.0,1.0,1.0
+reddit,Social Media Platforms,Instagram,2026-02-26,1,1.0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+reddit,Social Media Platforms,Instagram,2026-03-19,1,1.0,1,2,0,0,0,1.0,2.0,0.0,0.0,0.0
+reddit,Social Media Platforms,Instagram,2026-04-02,1,1.0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+reddit,Social Media Platforms,Instagram,2026-04-08,1,1.0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+reddit,Social Media Platforms,Instagram,2026-04-14,2,1.0,2,0,2,0,1,1.0,0.0,1.0,0.0,0.5
+reddit,Social Media Platforms,Instagram,2026-04-15,1,1.0,2,0,0,0,0,2.0,0.0,0.0,0.0,0.0
+reddit,Social Media Platforms,Instagram,2026-04-16,1,1.0,1,0,0,0,1,1.0,0.0,0.0,0.0,1.0
+reddit,Social Media Platforms,TikTok,2026-01-26,1,1.0,1,0,0,0,2,1.0,0.0,0.0,0.0,2.0
+reddit,Social Media Platforms,TikTok,2026-01-27,1,1.0,0,0,0,0,1,0.0,0.0,0.0,0.0,1.0
